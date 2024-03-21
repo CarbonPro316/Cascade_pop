@@ -1,0 +1,30 @@
+nohup: 忽略输入
+cuda:3
+# fine-tuning samples 25109
+#  validation samples 5360
+#        test samples 5391
+weibo_16x_30: Fine-tuning Epoch   1, Time: 91.694s, Train Loss: 1.131, Val Loss: 1.009, Test Loss: 1.001, LOG2 MSLE: 2.325
+Model saved!
+weibo_16x_30: Fine-tuning Epoch   2, Time: 99.567s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch   3, Time: 101.524s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch   4, Time: 102.112s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch   5, Time: 101.312s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch   6, Time: 102.619s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch   7, Time: 105.349s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch   8, Time: 102.356s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch   9, Time: 102.996s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  10, Time: 102.765s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  11, Time: 102.898s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  12, Time: 101.027s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  13, Time: 103.624s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  14, Time: 103.714s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  15, Time: 103.213s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  16, Time: 103.941s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  17, Time: 103.317s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  18, Time: 104.071s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  19, Time: 103.425s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  20, Time: 103.622s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+weibo_16x_30: Fine-tuning Epoch  21, Time: 103.449s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 31.724
+Predictions saved! Best Test MSLE: 2.3251184619326666
+Best Test MAPE: 0.22853733375376506
+Finished! Time used: 36.011min

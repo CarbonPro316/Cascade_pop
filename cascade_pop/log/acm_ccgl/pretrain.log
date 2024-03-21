@@ -1,0 +1,57 @@
+nohup: 忽略输入
+cuda:1
+# pre-training samples 2344
+acm_ccgl: Pre-training Epoch   1, Time: 5.894s, 2022-07-09, 08:24, Train Loss: 3.9548
+Model saved!
+acm_ccgl: Pre-training Epoch   2, Time: 5.188s, 2022-07-09, 08:24, Train Loss: 3.2666
+Model saved!
+acm_ccgl: Pre-training Epoch   3, Time: 5.551s, 2022-07-09, 08:24, Train Loss: 2.9925
+Model saved!
+acm_ccgl: Pre-training Epoch   4, Time: 5.238s, 2022-07-09, 08:24, Train Loss: 2.7729
+Model saved!
+acm_ccgl: Pre-training Epoch   5, Time: 5.236s, 2022-07-09, 08:24, Train Loss: 2.7010
+Model saved!
+acm_ccgl: Pre-training Epoch   6, Time: 5.603s, 2022-07-09, 08:24, Train Loss: 2.6041
+Model saved!
+acm_ccgl: Pre-training Epoch   7, Time: 5.145s, 2022-07-09, 08:24, Train Loss: 2.5328
+Model saved!
+acm_ccgl: Pre-training Epoch   8, Time: 5.238s, 2022-07-09, 08:24, Train Loss: 2.5608
+acm_ccgl: Pre-training Epoch   9, Time: 5.057s, 2022-07-09, 08:25, Train Loss: 2.5015
+Model saved!
+acm_ccgl: Pre-training Epoch  10, Time: 4.871s, 2022-07-09, 08:25, Train Loss: 2.4736
+Model saved!
+acm_ccgl: Pre-training Epoch  11, Time: 5.381s, 2022-07-09, 08:25, Train Loss: 2.4345
+Model saved!
+acm_ccgl: Pre-training Epoch  12, Time: 5.114s, 2022-07-09, 08:25, Train Loss: 2.4106
+Model saved!
+acm_ccgl: Pre-training Epoch  13, Time: 5.456s, 2022-07-09, 08:25, Train Loss: 2.3815
+Model saved!
+acm_ccgl: Pre-training Epoch  14, Time: 5.453s, 2022-07-09, 08:25, Train Loss: 2.4215
+acm_ccgl: Pre-training Epoch  15, Time: 5.016s, 2022-07-09, 08:25, Train Loss: 2.3373
+Model saved!
+acm_ccgl: Pre-training Epoch  16, Time: 5.262s, 2022-07-09, 08:25, Train Loss: 2.3873
+acm_ccgl: Pre-training Epoch  17, Time: 5.220s, 2022-07-09, 08:25, Train Loss: 2.3836
+acm_ccgl: Pre-training Epoch  18, Time: 4.969s, 2022-07-09, 08:25, Train Loss: 2.3530
+acm_ccgl: Pre-training Epoch  19, Time: 5.140s, 2022-07-09, 08:25, Train Loss: 2.2882
+Model saved!
+acm_ccgl: Pre-training Epoch  20, Time: 5.271s, 2022-07-09, 08:26, Train Loss: 2.2615
+Model saved!
+acm_ccgl: Pre-training Epoch  21, Time: 4.861s, 2022-07-09, 08:26, Train Loss: 2.2451
+Model saved!
+acm_ccgl: Pre-training Epoch  22, Time: 5.117s, 2022-07-09, 08:26, Train Loss: 2.2457
+acm_ccgl: Pre-training Epoch  23, Time: 5.121s, 2022-07-09, 08:26, Train Loss: 2.2109
+Model saved!
+acm_ccgl: Pre-training Epoch  24, Time: 5.236s, 2022-07-09, 08:26, Train Loss: 2.1969
+Model saved!
+acm_ccgl: Pre-training Epoch  25, Time: 4.991s, 2022-07-09, 08:26, Train Loss: 2.1842
+Model saved!
+acm_ccgl: Pre-training Epoch  26, Time: 4.942s, 2022-07-09, 08:26, Train Loss: 2.1389
+Model saved!
+acm_ccgl: Pre-training Epoch  27, Time: 4.320s, 2022-07-09, 08:26, Train Loss: 2.1414
+acm_ccgl: Pre-training Epoch  28, Time: 3.956s, 2022-07-09, 08:26, Train Loss: 2.1314
+Model saved!
+acm_ccgl: Pre-training Epoch  29, Time: 3.680s, 2022-07-09, 08:26, Train Loss: 2.1222
+Model saved!
+acm_ccgl: Pre-training Epoch  30, Time: 4.051s, 2022-07-09, 08:26, Train Loss: 2.0721
+Model saved!
+Finished! Time used: 2.663min

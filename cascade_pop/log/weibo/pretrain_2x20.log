@@ -1,0 +1,42 @@
+nohup: 忽略输入
+cuda:3
+# pre-training samples 5866
+weibo_2x_20: Pre-training Epoch   1, Time: 42.428s, 2022-07-17, 17:14, Train Loss: 4.0690
+Model saved!
+weibo_2x_20: Pre-training Epoch   2, Time: 43.176s, 2022-07-17, 17:15, Train Loss: 3.3385
+Model saved!
+weibo_2x_20: Pre-training Epoch   3, Time: 40.223s, 2022-07-17, 17:16, Train Loss: 3.0395
+Model saved!
+weibo_2x_20: Pre-training Epoch   4, Time: 42.481s, 2022-07-17, 17:17, Train Loss: 2.8729
+Model saved!
+weibo_2x_20: Pre-training Epoch   5, Time: 39.217s, 2022-07-17, 17:17, Train Loss: 2.7490
+Model saved!
+weibo_2x_20: Pre-training Epoch   6, Time: 41.388s, 2022-07-17, 17:18, Train Loss: 2.6524
+Model saved!
+weibo_2x_20: Pre-training Epoch   7, Time: 41.603s, 2022-07-17, 17:19, Train Loss: 2.6073
+Model saved!
+weibo_2x_20: Pre-training Epoch   8, Time: 41.764s, 2022-07-17, 17:19, Train Loss: 2.5615
+Model saved!
+weibo_2x_20: Pre-training Epoch   9, Time: 40.558s, 2022-07-17, 17:20, Train Loss: 2.4609
+Model saved!
+weibo_2x_20: Pre-training Epoch  10, Time: 41.056s, 2022-07-17, 17:21, Train Loss: 2.3735
+Model saved!
+weibo_2x_20: Pre-training Epoch  11, Time: 42.086s, 2022-07-17, 17:21, Train Loss: 2.3384
+Model saved!
+weibo_2x_20: Pre-training Epoch  12, Time: 42.800s, 2022-07-17, 17:22, Train Loss: 2.2506
+Model saved!
+weibo_2x_20: Pre-training Epoch  13, Time: 43.135s, 2022-07-17, 17:23, Train Loss: 2.2309
+Model saved!
+weibo_2x_20: Pre-training Epoch  14, Time: 43.690s, 2022-07-17, 17:23, Train Loss: 2.2114
+Model saved!
+weibo_2x_20: Pre-training Epoch  15, Time: 41.602s, 2022-07-17, 17:24, Train Loss: 2.0974
+Model saved!
+weibo_2x_20: Pre-training Epoch  16, Time: 41.412s, 2022-07-17, 17:25, Train Loss: 2.0372
+Model saved!
+weibo_2x_20: Pre-training Epoch  17, Time: 42.998s, 2022-07-17, 17:26, Train Loss: 2.0552
+weibo_2x_20: Pre-training Epoch  18, Time: 39.668s, 2022-07-17, 17:26, Train Loss: 1.9969
+Model saved!
+weibo_2x_20: Pre-training Epoch  19, Time: 44.462s, 2022-07-17, 17:27, Train Loss: 2.0567
+weibo_2x_20: Pre-training Epoch  20, Time: 40.185s, 2022-07-17, 17:28, Train Loss: 1.9823
+Model saved!
+Finished! Time used: 14.109min

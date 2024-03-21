@@ -1,0 +1,190 @@
+nohup: 忽略输入
+cuda:2
+# fine-tuning samples 25109
+#  validation samples 5360
+#        test samples 5391
+weibo_1x_10: Fine-tuning Epoch   1, Time: 123.980s, Train Loss: 1.762, Val Loss: 1.302, Test Loss: 1.331, LOG2 MSLE: 4.008
+Model saved!
+weibo_1x_10: Fine-tuning Epoch   2, Time: 124.994s, Train Loss: 1.184, Val Loss: 1.082, Test Loss: 1.098, LOG2 MSLE: 2.761
+Model saved!
+weibo_1x_10: Fine-tuning Epoch   3, Time: 125.918s, Train Loss: 1.071, Val Loss: 1.032, Test Loss: 1.041, LOG2 MSLE: 2.500
+Model saved!
+weibo_1x_10: Fine-tuning Epoch   4, Time: 125.571s, Train Loss: 1.026, Val Loss: 0.998, Test Loss: 0.998, LOG2 MSLE: 2.299
+Model saved!
+weibo_1x_10: Fine-tuning Epoch   5, Time: 128.948s, Train Loss: 1.004, Val Loss: 0.992, Test Loss: 0.993, LOG2 MSLE: 2.289
+Model saved!
+weibo_1x_10: Fine-tuning Epoch   6, Time: 127.316s, Train Loss: 0.991, Val Loss: 0.979, Test Loss: 0.976, LOG2 MSLE: 2.203
+Model saved!
+weibo_1x_10: Fine-tuning Epoch   7, Time: 125.231s, Train Loss: 0.984, Val Loss: 0.981, Test Loss: 0.976, LOG2 MSLE: 2.203
+weibo_1x_10: Fine-tuning Epoch   8, Time: 126.862s, Train Loss: 0.980, Val Loss: 0.976, Test Loss: 0.969, LOG2 MSLE: 2.179
+Model saved!
+weibo_1x_10: Fine-tuning Epoch   9, Time: 126.753s, Train Loss: 0.978, Val Loss: 0.969, Test Loss: 0.964, LOG2 MSLE: 2.160
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  10, Time: 126.958s, Train Loss: 0.976, Val Loss: 0.974, Test Loss: 0.967, LOG2 MSLE: 2.165
+weibo_1x_10: Fine-tuning Epoch  11, Time: 128.965s, Train Loss: 0.973, Val Loss: 0.971, Test Loss: 0.964, LOG2 MSLE: 2.155
+weibo_1x_10: Fine-tuning Epoch  12, Time: 128.243s, Train Loss: 0.971, Val Loss: 0.969, Test Loss: 0.961, LOG2 MSLE: 2.145
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  13, Time: 126.767s, Train Loss: 0.972, Val Loss: 0.977, Test Loss: 0.970, LOG2 MSLE: 2.188
+weibo_1x_10: Fine-tuning Epoch  14, Time: 125.696s, Train Loss: 0.973, Val Loss: 0.972, Test Loss: 0.964, LOG2 MSLE: 2.154
+weibo_1x_10: Fine-tuning Epoch  15, Time: 127.940s, Train Loss: 0.969, Val Loss: 0.966, Test Loss: 0.960, LOG2 MSLE: 2.142
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  16, Time: 127.716s, Train Loss: 0.969, Val Loss: 0.972, Test Loss: 0.967, LOG2 MSLE: 2.177
+weibo_1x_10: Fine-tuning Epoch  17, Time: 126.266s, Train Loss: 0.967, Val Loss: 0.966, Test Loss: 0.957, LOG2 MSLE: 2.128
+weibo_1x_10: Fine-tuning Epoch  18, Time: 129.944s, Train Loss: 0.965, Val Loss: 0.963, Test Loss: 0.956, LOG2 MSLE: 2.131
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  19, Time: 129.163s, Train Loss: 0.971, Val Loss: 0.967, Test Loss: 0.957, LOG2 MSLE: 2.134
+weibo_1x_10: Fine-tuning Epoch  20, Time: 122.538s, Train Loss: 0.964, Val Loss: 0.965, Test Loss: 0.955, LOG2 MSLE: 2.125
+weibo_1x_10: Fine-tuning Epoch  21, Time: 121.792s, Train Loss: 0.964, Val Loss: 0.966, Test Loss: 0.957, LOG2 MSLE: 2.127
+weibo_1x_10: Fine-tuning Epoch  22, Time: 126.902s, Train Loss: 0.964, Val Loss: 0.962, Test Loss: 0.953, LOG2 MSLE: 2.119
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  23, Time: 122.004s, Train Loss: 0.960, Val Loss: 0.958, Test Loss: 0.951, LOG2 MSLE: 2.106
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  24, Time: 129.815s, Train Loss: 0.958, Val Loss: 0.963, Test Loss: 0.957, LOG2 MSLE: 2.137
+weibo_1x_10: Fine-tuning Epoch  25, Time: 124.847s, Train Loss: 0.961, Val Loss: 0.967, Test Loss: 0.962, LOG2 MSLE: 2.149
+weibo_1x_10: Fine-tuning Epoch  26, Time: 130.232s, Train Loss: 0.959, Val Loss: 0.960, Test Loss: 0.950, LOG2 MSLE: 2.099
+weibo_1x_10: Fine-tuning Epoch  27, Time: 128.362s, Train Loss: 0.957, Val Loss: 0.960, Test Loss: 0.955, LOG2 MSLE: 2.119
+weibo_1x_10: Fine-tuning Epoch  28, Time: 123.566s, Train Loss: 0.957, Val Loss: 0.962, Test Loss: 0.950, LOG2 MSLE: 2.102
+weibo_1x_10: Fine-tuning Epoch  29, Time: 127.053s, Train Loss: 0.956, Val Loss: 0.961, Test Loss: 0.954, LOG2 MSLE: 2.120
+weibo_1x_10: Fine-tuning Epoch  30, Time: 128.314s, Train Loss: 0.957, Val Loss: 0.958, Test Loss: 0.948, LOG2 MSLE: 2.089
+weibo_1x_10: Fine-tuning Epoch  31, Time: 131.089s, Train Loss: 0.959, Val Loss: 0.957, Test Loss: 0.953, LOG2 MSLE: 2.116
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  32, Time: 131.035s, Train Loss: 0.957, Val Loss: 0.970, Test Loss: 0.959, LOG2 MSLE: 2.131
+weibo_1x_10: Fine-tuning Epoch  33, Time: 132.001s, Train Loss: 0.955, Val Loss: 0.962, Test Loss: 0.955, LOG2 MSLE: 2.128
+weibo_1x_10: Fine-tuning Epoch  34, Time: 129.081s, Train Loss: 0.956, Val Loss: 0.971, Test Loss: 0.957, LOG2 MSLE: 2.129
+weibo_1x_10: Fine-tuning Epoch  35, Time: 130.546s, Train Loss: 0.955, Val Loss: 0.974, Test Loss: 0.956, LOG2 MSLE: 2.123
+weibo_1x_10: Fine-tuning Epoch  36, Time: 128.635s, Train Loss: 0.954, Val Loss: 0.957, Test Loss: 0.949, LOG2 MSLE: 2.094
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  37, Time: 130.080s, Train Loss: 0.953, Val Loss: 0.969, Test Loss: 0.963, LOG2 MSLE: 2.162
+weibo_1x_10: Fine-tuning Epoch  38, Time: 128.941s, Train Loss: 0.954, Val Loss: 0.960, Test Loss: 0.949, LOG2 MSLE: 2.097
+weibo_1x_10: Fine-tuning Epoch  39, Time: 130.307s, Train Loss: 0.954, Val Loss: 0.954, Test Loss: 0.946, LOG2 MSLE: 2.088
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  40, Time: 127.513s, Train Loss: 0.953, Val Loss: 0.962, Test Loss: 0.950, LOG2 MSLE: 2.099
+weibo_1x_10: Fine-tuning Epoch  41, Time: 116.933s, Train Loss: 0.951, Val Loss: 0.963, Test Loss: 0.950, LOG2 MSLE: 2.108
+weibo_1x_10: Fine-tuning Epoch  42, Time: 117.721s, Train Loss: 0.952, Val Loss: 0.966, Test Loss: 0.952, LOG2 MSLE: 2.118
+weibo_1x_10: Fine-tuning Epoch  43, Time: 118.828s, Train Loss: 0.954, Val Loss: 0.957, Test Loss: 0.945, LOG2 MSLE: 2.083
+weibo_1x_10: Fine-tuning Epoch  44, Time: 120.852s, Train Loss: 0.951, Val Loss: 0.955, Test Loss: 0.947, LOG2 MSLE: 2.086
+weibo_1x_10: Fine-tuning Epoch  45, Time: 118.587s, Train Loss: 0.952, Val Loss: 0.959, Test Loss: 0.947, LOG2 MSLE: 2.093
+weibo_1x_10: Fine-tuning Epoch  46, Time: 111.226s, Train Loss: 0.954, Val Loss: 0.963, Test Loss: 0.947, LOG2 MSLE: 2.091
+weibo_1x_10: Fine-tuning Epoch  47, Time: 105.130s, Train Loss: 0.951, Val Loss: 0.959, Test Loss: 0.945, LOG2 MSLE: 2.078
+weibo_1x_10: Fine-tuning Epoch  48, Time: 106.514s, Train Loss: 0.954, Val Loss: 0.962, Test Loss: 0.947, LOG2 MSLE: 2.094
+weibo_1x_10: Fine-tuning Epoch  49, Time: 104.621s, Train Loss: 0.949, Val Loss: 0.961, Test Loss: 0.960, LOG2 MSLE: 2.139
+weibo_1x_10: Fine-tuning Epoch  50, Time: 105.355s, Train Loss: 0.951, Val Loss: 0.953, Test Loss: 0.943, LOG2 MSLE: 2.070
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  51, Time: 106.262s, Train Loss: 0.949, Val Loss: 0.964, Test Loss: 0.947, LOG2 MSLE: 2.092
+weibo_1x_10: Fine-tuning Epoch  52, Time: 105.535s, Train Loss: 0.950, Val Loss: 0.956, Test Loss: 0.950, LOG2 MSLE: 2.104
+weibo_1x_10: Fine-tuning Epoch  53, Time: 104.487s, Train Loss: 0.949, Val Loss: 0.955, Test Loss: 0.948, LOG2 MSLE: 2.087
+weibo_1x_10: Fine-tuning Epoch  54, Time: 104.809s, Train Loss: 0.949, Val Loss: 0.979, Test Loss: 0.960, LOG2 MSLE: 2.139
+weibo_1x_10: Fine-tuning Epoch  55, Time: 105.538s, Train Loss: 0.949, Val Loss: 0.968, Test Loss: 0.957, LOG2 MSLE: 2.144
+weibo_1x_10: Fine-tuning Epoch  56, Time: 106.063s, Train Loss: 0.964, Val Loss: 0.954, Test Loss: 0.945, LOG2 MSLE: 2.084
+weibo_1x_10: Fine-tuning Epoch  57, Time: 106.729s, Train Loss: 0.951, Val Loss: 0.957, Test Loss: 0.956, LOG2 MSLE: 2.116
+weibo_1x_10: Fine-tuning Epoch  58, Time: 105.421s, Train Loss: 0.949, Val Loss: 0.953, Test Loss: 0.946, LOG2 MSLE: 2.081
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  59, Time: 105.773s, Train Loss: 0.948, Val Loss: 0.952, Test Loss: 0.941, LOG2 MSLE: 2.066
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  60, Time: 104.522s, Train Loss: 0.948, Val Loss: 0.956, Test Loss: 0.945, LOG2 MSLE: 2.084
+weibo_1x_10: Fine-tuning Epoch  61, Time: 106.411s, Train Loss: 0.957, Val Loss: 0.967, Test Loss: 0.962, LOG2 MSLE: 2.156
+weibo_1x_10: Fine-tuning Epoch  62, Time: 104.382s, Train Loss: 0.948, Val Loss: 0.963, Test Loss: 0.948, LOG2 MSLE: 2.100
+weibo_1x_10: Fine-tuning Epoch  63, Time: 103.701s, Train Loss: 0.950, Val Loss: 0.955, Test Loss: 0.943, LOG2 MSLE: 2.071
+weibo_1x_10: Fine-tuning Epoch  64, Time: 106.385s, Train Loss: 0.948, Val Loss: 0.962, Test Loss: 0.945, LOG2 MSLE: 2.081
+weibo_1x_10: Fine-tuning Epoch  65, Time: 105.831s, Train Loss: 0.949, Val Loss: 0.958, Test Loss: 0.944, LOG2 MSLE: 2.087
+weibo_1x_10: Fine-tuning Epoch  66, Time: 102.763s, Train Loss: 0.947, Val Loss: 0.967, Test Loss: 0.956, LOG2 MSLE: 2.143
+weibo_1x_10: Fine-tuning Epoch  67, Time: 106.858s, Train Loss: 0.944, Val Loss: 0.952, Test Loss: 0.941, LOG2 MSLE: 2.064
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  68, Time: 104.977s, Train Loss: 0.945, Val Loss: 0.949, Test Loss: 0.943, LOG2 MSLE: 2.074
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  69, Time: 98.340s, Train Loss: 0.946, Val Loss: 0.951, Test Loss: 0.946, LOG2 MSLE: 2.080
+weibo_1x_10: Fine-tuning Epoch  70, Time: 94.799s, Train Loss: 0.955, Val Loss: 0.979, Test Loss: 0.958, LOG2 MSLE: 2.133
+weibo_1x_10: Fine-tuning Epoch  71, Time: 95.594s, Train Loss: 0.947, Val Loss: 0.948, Test Loss: 0.940, LOG2 MSLE: 2.060
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  72, Time: 96.632s, Train Loss: 0.948, Val Loss: 0.964, Test Loss: 0.951, LOG2 MSLE: 2.101
+weibo_1x_10: Fine-tuning Epoch  73, Time: 94.634s, Train Loss: 0.944, Val Loss: 0.950, Test Loss: 0.943, LOG2 MSLE: 2.074
+weibo_1x_10: Fine-tuning Epoch  74, Time: 95.235s, Train Loss: 0.947, Val Loss: 0.959, Test Loss: 0.946, LOG2 MSLE: 2.084
+weibo_1x_10: Fine-tuning Epoch  75, Time: 98.187s, Train Loss: 0.947, Val Loss: 0.952, Test Loss: 0.944, LOG2 MSLE: 2.081
+weibo_1x_10: Fine-tuning Epoch  76, Time: 96.973s, Train Loss: 0.944, Val Loss: 0.967, Test Loss: 0.951, LOG2 MSLE: 2.104
+weibo_1x_10: Fine-tuning Epoch  77, Time: 95.509s, Train Loss: 0.952, Val Loss: 0.954, Test Loss: 0.947, LOG2 MSLE: 2.095
+weibo_1x_10: Fine-tuning Epoch  78, Time: 93.950s, Train Loss: 0.946, Val Loss: 0.951, Test Loss: 0.942, LOG2 MSLE: 2.070
+weibo_1x_10: Fine-tuning Epoch  79, Time: 96.083s, Train Loss: 0.952, Val Loss: 0.956, Test Loss: 0.943, LOG2 MSLE: 2.076
+weibo_1x_10: Fine-tuning Epoch  80, Time: 94.511s, Train Loss: 0.943, Val Loss: 0.947, Test Loss: 0.940, LOG2 MSLE: 2.058
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  81, Time: 94.744s, Train Loss: 0.946, Val Loss: 0.955, Test Loss: 0.941, LOG2 MSLE: 2.064
+weibo_1x_10: Fine-tuning Epoch  82, Time: 96.237s, Train Loss: 0.961, Val Loss: 0.965, Test Loss: 0.947, LOG2 MSLE: 2.094
+weibo_1x_10: Fine-tuning Epoch  83, Time: 95.617s, Train Loss: 0.947, Val Loss: 0.955, Test Loss: 0.956, LOG2 MSLE: 2.132
+weibo_1x_10: Fine-tuning Epoch  84, Time: 94.889s, Train Loss: 0.945, Val Loss: 0.955, Test Loss: 0.945, LOG2 MSLE: 2.076
+weibo_1x_10: Fine-tuning Epoch  85, Time: 94.856s, Train Loss: 0.943, Val Loss: 0.951, Test Loss: 0.941, LOG2 MSLE: 2.064
+weibo_1x_10: Fine-tuning Epoch  86, Time: 74.101s, Train Loss: 0.944, Val Loss: 0.950, Test Loss: 0.943, LOG2 MSLE: 2.077
+weibo_1x_10: Fine-tuning Epoch  87, Time: 72.802s, Train Loss: 0.945, Val Loss: 0.947, Test Loss: 0.939, LOG2 MSLE: 2.059
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  88, Time: 73.116s, Train Loss: 0.943, Val Loss: 0.946, Test Loss: 0.938, LOG2 MSLE: 2.055
+Model saved!
+weibo_1x_10: Fine-tuning Epoch  89, Time: 73.483s, Train Loss: 0.943, Val Loss: 0.949, Test Loss: 0.940, LOG2 MSLE: 2.058
+weibo_1x_10: Fine-tuning Epoch  90, Time: 73.076s, Train Loss: 0.941, Val Loss: 0.948, Test Loss: 0.937, LOG2 MSLE: 2.047
+weibo_1x_10: Fine-tuning Epoch  91, Time: 72.152s, Train Loss: 0.949, Val Loss: 0.954, Test Loss: 0.948, LOG2 MSLE: 2.088
+weibo_1x_10: Fine-tuning Epoch  92, Time: 71.157s, Train Loss: 0.944, Val Loss: 0.953, Test Loss: 0.953, LOG2 MSLE: 2.111
+weibo_1x_10: Fine-tuning Epoch  93, Time: 72.100s, Train Loss: 0.944, Val Loss: 0.954, Test Loss: 0.948, LOG2 MSLE: 2.100
+weibo_1x_10: Fine-tuning Epoch  94, Time: 71.794s, Train Loss: 0.944, Val Loss: 0.950, Test Loss: 0.942, LOG2 MSLE: 2.067
+weibo_1x_10: Fine-tuning Epoch  95, Time: 71.709s, Train Loss: 0.942, Val Loss: 0.953, Test Loss: 0.940, LOG2 MSLE: 2.058
+weibo_1x_10: Fine-tuning Epoch  96, Time: 71.128s, Train Loss: 0.941, Val Loss: 0.949, Test Loss: 0.938, LOG2 MSLE: 2.056
+weibo_1x_10: Fine-tuning Epoch  97, Time: 71.281s, Train Loss: 0.938, Val Loss: 0.952, Test Loss: 0.951, LOG2 MSLE: 2.095
+weibo_1x_10: Fine-tuning Epoch  98, Time: 71.386s, Train Loss: 0.937, Val Loss: 0.969, Test Loss: 0.950, LOG2 MSLE: 2.101
+weibo_1x_10: Fine-tuning Epoch  99, Time: 72.995s, Train Loss: 0.940, Val Loss: 0.945, Test Loss: 0.939, LOG2 MSLE: 2.058
+Model saved!
+weibo_1x_10: Fine-tuning Epoch 100, Time: 71.468s, Train Loss: 0.938, Val Loss: 0.952, Test Loss: 0.939, LOG2 MSLE: 2.057
+weibo_1x_10: Fine-tuning Epoch 101, Time: 62.258s, Train Loss: 0.937, Val Loss: 0.950, Test Loss: 0.936, LOG2 MSLE: 2.044
+weibo_1x_10: Fine-tuning Epoch 102, Time: 61.577s, Train Loss: 0.938, Val Loss: 0.957, Test Loss: 0.942, LOG2 MSLE: 2.073
+weibo_1x_10: Fine-tuning Epoch 103, Time: 63.857s, Train Loss: 0.939, Val Loss: 0.944, Test Loss: 0.934, LOG2 MSLE: 2.033
+Model saved!
+weibo_1x_10: Fine-tuning Epoch 104, Time: 64.187s, Train Loss: 0.941, Val Loss: 0.953, Test Loss: 0.938, LOG2 MSLE: 2.054
+weibo_1x_10: Fine-tuning Epoch 105, Time: 62.142s, Train Loss: 0.962, Val Loss: 0.948, Test Loss: 0.945, LOG2 MSLE: 2.076
+weibo_1x_10: Fine-tuning Epoch 106, Time: 62.423s, Train Loss: 0.941, Val Loss: 0.988, Test Loss: 0.971, LOG2 MSLE: 2.192
+weibo_1x_10: Fine-tuning Epoch 107, Time: 63.430s, Train Loss: 0.938, Val Loss: 0.952, Test Loss: 0.939, LOG2 MSLE: 2.061
+weibo_1x_10: Fine-tuning Epoch 108, Time: 62.993s, Train Loss: 0.938, Val Loss: 0.953, Test Loss: 0.942, LOG2 MSLE: 2.072
+weibo_1x_10: Fine-tuning Epoch 109, Time: 61.569s, Train Loss: 0.938, Val Loss: 0.954, Test Loss: 0.942, LOG2 MSLE: 2.073
+weibo_1x_10: Fine-tuning Epoch 110, Time: 62.297s, Train Loss: 0.939, Val Loss: 0.965, Test Loss: 0.950, LOG2 MSLE: 2.110
+weibo_1x_10: Fine-tuning Epoch 111, Time: 62.358s, Train Loss: 0.937, Val Loss: 0.944, Test Loss: 0.933, LOG2 MSLE: 2.031
+weibo_1x_10: Fine-tuning Epoch 112, Time: 63.538s, Train Loss: 0.936, Val Loss: 0.941, Test Loss: 0.941, LOG2 MSLE: 2.061
+Model saved!
+weibo_1x_10: Fine-tuning Epoch 113, Time: 62.932s, Train Loss: 0.938, Val Loss: 0.942, Test Loss: 0.938, LOG2 MSLE: 2.055
+weibo_1x_10: Fine-tuning Epoch 114, Time: 62.072s, Train Loss: 0.938, Val Loss: 0.952, Test Loss: 0.945, LOG2 MSLE: 2.080
+weibo_1x_10: Fine-tuning Epoch 115, Time: 61.771s, Train Loss: 0.938, Val Loss: 0.957, Test Loss: 0.945, LOG2 MSLE: 2.088
+weibo_1x_10: Fine-tuning Epoch 116, Time: 62.407s, Train Loss: 0.935, Val Loss: 0.936, Test Loss: 0.932, LOG2 MSLE: 2.022
+Model saved!
+weibo_1x_10: Fine-tuning Epoch 117, Time: 60.804s, Train Loss: 0.941, Val Loss: 0.943, Test Loss: 0.933, LOG2 MSLE: 2.030
+weibo_1x_10: Fine-tuning Epoch 118, Time: 61.568s, Train Loss: 0.938, Val Loss: 0.938, Test Loss: 0.932, LOG2 MSLE: 2.026
+weibo_1x_10: Fine-tuning Epoch 119, Time: 61.708s, Train Loss: 0.940, Val Loss: 0.957, Test Loss: 0.947, LOG2 MSLE: 2.092
+weibo_1x_10: Fine-tuning Epoch 120, Time: 62.290s, Train Loss: 0.938, Val Loss: 0.951, Test Loss: 0.944, LOG2 MSLE: 2.074
+weibo_1x_10: Fine-tuning Epoch 121, Time: 63.274s, Train Loss: 0.940, Val Loss: 0.948, Test Loss: 0.947, LOG2 MSLE: 2.082
+weibo_1x_10: Fine-tuning Epoch 122, Time: 61.985s, Train Loss: 0.946, Val Loss: 0.982, Test Loss: 0.960, LOG2 MSLE: 2.154
+weibo_1x_10: Fine-tuning Epoch 123, Time: 62.144s, Train Loss: 0.937, Val Loss: 0.953, Test Loss: 0.939, LOG2 MSLE: 2.053
+weibo_1x_10: Fine-tuning Epoch 124, Time: 62.765s, Train Loss: 0.936, Val Loss: 0.947, Test Loss: 0.941, LOG2 MSLE: 2.068
+weibo_1x_10: Fine-tuning Epoch 125, Time: 62.978s, Train Loss: 0.932, Val Loss: 0.935, Test Loss: 0.932, LOG2 MSLE: 2.026
+Model saved!
+weibo_1x_10: Fine-tuning Epoch 126, Time: 63.235s, Train Loss: 0.938, Val Loss: 0.943, Test Loss: 0.937, LOG2 MSLE: 2.050
+weibo_1x_10: Fine-tuning Epoch 127, Time: 61.746s, Train Loss: 0.936, Val Loss: 0.945, Test Loss: 0.938, LOG2 MSLE: 2.052
+weibo_1x_10: Fine-tuning Epoch 128, Time: 60.329s, Train Loss: 0.936, Val Loss: 0.943, Test Loss: 0.937, LOG2 MSLE: 2.051
+weibo_1x_10: Fine-tuning Epoch 129, Time: 54.301s, Train Loss: 0.940, Val Loss: 0.938, Test Loss: 0.935, LOG2 MSLE: 2.037
+weibo_1x_10: Fine-tuning Epoch 130, Time: 55.988s, Train Loss: 0.939, Val Loss: 0.939, Test Loss: 0.933, LOG2 MSLE: 2.036
+weibo_1x_10: Fine-tuning Epoch 131, Time: 54.585s, Train Loss: 0.933, Val Loss: 0.934, Test Loss: 0.927, LOG2 MSLE: 2.005
+Model saved!
+weibo_1x_10: Fine-tuning Epoch 132, Time: 54.940s, Train Loss: 0.939, Val Loss: 0.954, Test Loss: 0.943, LOG2 MSLE: 2.077
+weibo_1x_10: Fine-tuning Epoch 133, Time: 51.896s, Train Loss: 0.932, Val Loss: 0.948, Test Loss: 0.940, LOG2 MSLE: 2.057
+weibo_1x_10: Fine-tuning Epoch 134, Time: 52.062s, Train Loss: 0.938, Val Loss: 0.953, Test Loss: 0.943, LOG2 MSLE: 2.069
+weibo_1x_10: Fine-tuning Epoch 135, Time: 55.595s, Train Loss: 0.936, Val Loss: 0.946, Test Loss: 0.947, LOG2 MSLE: 2.087
+weibo_1x_10: Fine-tuning Epoch 136, Time: 54.899s, Train Loss: 0.937, Val Loss: 0.966, Test Loss: 0.967, LOG2 MSLE: 2.182
+weibo_1x_10: Fine-tuning Epoch 137, Time: 54.828s, Train Loss: 0.935, Val Loss: 0.956, Test Loss: 0.944, LOG2 MSLE: 2.084
+weibo_1x_10: Fine-tuning Epoch 138, Time: 55.512s, Train Loss: 0.933, Val Loss: 0.949, Test Loss: 0.937, LOG2 MSLE: 2.052
+weibo_1x_10: Fine-tuning Epoch 139, Time: 54.330s, Train Loss: 0.930, Val Loss: 0.944, Test Loss: 0.939, LOG2 MSLE: 2.059
+weibo_1x_10: Fine-tuning Epoch 140, Time: 55.796s, Train Loss: 0.933, Val Loss: 0.962, Test Loss: 0.951, LOG2 MSLE: 2.102
+weibo_1x_10: Fine-tuning Epoch 141, Time: 56.267s, Train Loss: 0.936, Val Loss: 0.955, Test Loss: 0.943, LOG2 MSLE: 2.081
+weibo_1x_10: Fine-tuning Epoch 142, Time: 57.089s, Train Loss: 0.934, Val Loss: 0.952, Test Loss: 0.941, LOG2 MSLE: 2.068
+weibo_1x_10: Fine-tuning Epoch 143, Time: 57.486s, Train Loss: 0.932, Val Loss: 0.938, Test Loss: 0.930, LOG2 MSLE: 2.019
+weibo_1x_10: Fine-tuning Epoch 144, Time: 55.518s, Train Loss: 0.932, Val Loss: 0.950, Test Loss: 0.944, LOG2 MSLE: 2.075
+weibo_1x_10: Fine-tuning Epoch 145, Time: 55.594s, Train Loss: 0.933, Val Loss: 0.947, Test Loss: 0.936, LOG2 MSLE: 2.048
+weibo_1x_10: Fine-tuning Epoch 146, Time: 55.109s, Train Loss: 0.933, Val Loss: 0.944, Test Loss: 0.933, LOG2 MSLE: 2.037
+weibo_1x_10: Fine-tuning Epoch 147, Time: 55.998s, Train Loss: 0.932, Val Loss: 0.944, Test Loss: 0.935, LOG2 MSLE: 2.045
+weibo_1x_10: Fine-tuning Epoch 148, Time: 56.592s, Train Loss: 0.934, Val Loss: 0.939, Test Loss: 0.937, LOG2 MSLE: 2.045
+weibo_1x_10: Fine-tuning Epoch 149, Time: 57.571s, Train Loss: 0.930, Val Loss: 0.963, Test Loss: 0.946, LOG2 MSLE: 2.086
+weibo_1x_10: Fine-tuning Epoch 150, Time: 57.260s, Train Loss: 0.938, Val Loss: 0.944, Test Loss: 0.934, LOG2 MSLE: 2.038
+weibo_1x_10: Fine-tuning Epoch 151, Time: 54.870s, Train Loss: 0.930, Val Loss: 0.945, Test Loss: 0.935, LOG2 MSLE: 2.039
+Predictions saved! Best Test MSLE: 2.0046095939517525
+Best Test MAPE: 0.21186747381025467
+Finished! Time used: 231.424min

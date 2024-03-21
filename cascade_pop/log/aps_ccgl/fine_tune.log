@@ -1,0 +1,5 @@
+nohup: 忽略输入
+cuda:1
+# fine-tuning samples 31069
+#  validation samples 6639
+#        test samples 6646

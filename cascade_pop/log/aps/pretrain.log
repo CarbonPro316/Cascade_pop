@@ -1,0 +1,52 @@
+nohup: 忽略输入
+cuda:3
+# pre-training samples 4885
+aps: Pre-training Epoch   1, Time: 26.242s, 2022-07-11, 19:00, Train Loss: 4.1695
+Model saved!
+aps: Pre-training Epoch   2, Time: 28.466s, 2022-07-11, 19:01, Train Loss: 3.1908
+Model saved!
+aps: Pre-training Epoch   3, Time: 27.376s, 2022-07-11, 19:01, Train Loss: 2.5396
+Model saved!
+aps: Pre-training Epoch   4, Time: 26.317s, 2022-07-11, 19:02, Train Loss: 2.4116
+Model saved!
+aps: Pre-training Epoch   5, Time: 28.190s, 2022-07-11, 19:02, Train Loss: 2.1251
+Model saved!
+aps: Pre-training Epoch   6, Time: 20.109s, 2022-07-11, 19:02, Train Loss: 1.6972
+Model saved!
+aps: Pre-training Epoch   7, Time: 25.875s, 2022-07-11, 19:03, Train Loss: 1.4663
+Model saved!
+aps: Pre-training Epoch   8, Time: 24.724s, 2022-07-11, 19:03, Train Loss: 1.2284
+Model saved!
+aps: Pre-training Epoch   9, Time: 27.348s, 2022-07-11, 19:04, Train Loss: 1.3129
+aps: Pre-training Epoch  10, Time: 28.333s, 2022-07-11, 19:04, Train Loss: 1.1314
+Model saved!
+aps: Pre-training Epoch  11, Time: 24.007s, 2022-07-11, 19:05, Train Loss: 0.9375
+Model saved!
+aps: Pre-training Epoch  12, Time: 27.674s, 2022-07-11, 19:05, Train Loss: 0.9806
+aps: Pre-training Epoch  13, Time: 19.486s, 2022-07-11, 19:05, Train Loss: 0.9407
+aps: Pre-training Epoch  14, Time: 21.032s, 2022-07-11, 19:06, Train Loss: 0.8927
+Model saved!
+aps: Pre-training Epoch  15, Time: 25.199s, 2022-07-11, 19:06, Train Loss: 0.8334
+Model saved!
+aps: Pre-training Epoch  16, Time: 27.283s, 2022-07-11, 19:07, Train Loss: 0.7201
+Model saved!
+aps: Pre-training Epoch  17, Time: 26.823s, 2022-07-11, 19:07, Train Loss: 0.7299
+aps: Pre-training Epoch  18, Time: 25.726s, 2022-07-11, 19:08, Train Loss: 0.6050
+Model saved!
+aps: Pre-training Epoch  19, Time: 23.871s, 2022-07-11, 19:08, Train Loss: 0.6068
+aps: Pre-training Epoch  20, Time: 26.481s, 2022-07-11, 19:08, Train Loss: 0.6389
+aps: Pre-training Epoch  21, Time: 26.895s, 2022-07-11, 19:09, Train Loss: 0.5292
+Model saved!
+aps: Pre-training Epoch  22, Time: 25.854s, 2022-07-11, 19:09, Train Loss: 0.6156
+aps: Pre-training Epoch  23, Time: 25.768s, 2022-07-11, 19:10, Train Loss: 0.5196
+Model saved!
+aps: Pre-training Epoch  24, Time: 26.743s, 2022-07-11, 19:10, Train Loss: 0.5104
+Model saved!
+aps: Pre-training Epoch  25, Time: 26.785s, 2022-07-11, 19:11, Train Loss: 0.8427
+aps: Pre-training Epoch  26, Time: 27.875s, 2022-07-11, 19:11, Train Loss: 0.5044
+Model saved!
+aps: Pre-training Epoch  27, Time: 20.810s, 2022-07-11, 19:11, Train Loss: 0.9310
+aps: Pre-training Epoch  28, Time: 26.663s, 2022-07-11, 19:12, Train Loss: 0.5633
+aps: Pre-training Epoch  29, Time: 20.721s, 2022-07-11, 19:12, Train Loss: 0.5411
+aps: Pre-training Epoch  30, Time: 16.719s, 2022-07-11, 19:12, Train Loss: 0.5153
+Finished! Time used: 12.715min

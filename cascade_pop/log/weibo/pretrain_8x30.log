@@ -1,0 +1,52 @@
+nohup: 忽略输入
+cuda:3
+# pre-training samples 5866
+weibo_8x_30: Pre-training Epoch   1, Time: 44.704s, 2022-07-17, 17:35, Train Loss: 3.6689
+Model saved!
+weibo_8x_30: Pre-training Epoch   2, Time: 46.575s, 2022-07-17, 17:35, Train Loss: 2.9389
+Model saved!
+weibo_8x_30: Pre-training Epoch   3, Time: 45.867s, 2022-07-17, 17:36, Train Loss: 2.6513
+Model saved!
+weibo_8x_30: Pre-training Epoch   4, Time: 46.130s, 2022-07-17, 17:37, Train Loss: 2.4854
+Model saved!
+weibo_8x_30: Pre-training Epoch   5, Time: 45.624s, 2022-07-17, 17:38, Train Loss: 2.3142
+Model saved!
+weibo_8x_30: Pre-training Epoch   6, Time: 46.499s, 2022-07-17, 17:39, Train Loss: 2.2745
+Model saved!
+weibo_8x_30: Pre-training Epoch   7, Time: 47.755s, 2022-07-17, 17:39, Train Loss: 2.1750
+Model saved!
+weibo_8x_30: Pre-training Epoch   8, Time: 46.336s, 2022-07-17, 17:40, Train Loss: 2.0818
+Model saved!
+weibo_8x_30: Pre-training Epoch   9, Time: 44.892s, 2022-07-17, 17:41, Train Loss: 2.0437
+Model saved!
+weibo_8x_30: Pre-training Epoch  10, Time: 44.325s, 2022-07-17, 17:42, Train Loss: 1.9702
+Model saved!
+weibo_8x_30: Pre-training Epoch  11, Time: 46.331s, 2022-07-17, 17:42, Train Loss: 1.9912
+weibo_8x_30: Pre-training Epoch  12, Time: 45.337s, 2022-07-17, 17:43, Train Loss: 1.9913
+weibo_8x_30: Pre-training Epoch  13, Time: 45.782s, 2022-07-17, 17:44, Train Loss: 1.9597
+Model saved!
+weibo_8x_30: Pre-training Epoch  14, Time: 45.416s, 2022-07-17, 17:45, Train Loss: 1.8429
+Model saved!
+weibo_8x_30: Pre-training Epoch  15, Time: 46.125s, 2022-07-17, 17:45, Train Loss: 1.7510
+Model saved!
+weibo_8x_30: Pre-training Epoch  16, Time: 45.188s, 2022-07-17, 17:46, Train Loss: 1.7129
+Model saved!
+weibo_8x_30: Pre-training Epoch  17, Time: 46.708s, 2022-07-17, 17:47, Train Loss: 1.7136
+weibo_8x_30: Pre-training Epoch  18, Time: 47.524s, 2022-07-17, 17:48, Train Loss: 1.7492
+weibo_8x_30: Pre-training Epoch  19, Time: 45.641s, 2022-07-17, 17:49, Train Loss: 1.7130
+weibo_8x_30: Pre-training Epoch  20, Time: 44.383s, 2022-07-17, 17:49, Train Loss: 1.6215
+Model saved!
+weibo_8x_30: Pre-training Epoch  21, Time: 46.107s, 2022-07-17, 17:50, Train Loss: 1.5986
+Model saved!
+weibo_8x_30: Pre-training Epoch  22, Time: 47.024s, 2022-07-17, 17:51, Train Loss: 1.6201
+weibo_8x_30: Pre-training Epoch  23, Time: 45.654s, 2022-07-17, 17:52, Train Loss: 1.6470
+weibo_8x_30: Pre-training Epoch  24, Time: 46.364s, 2022-07-17, 17:52, Train Loss: 1.5454
+Model saved!
+weibo_8x_30: Pre-training Epoch  25, Time: 44.486s, 2022-07-17, 17:53, Train Loss: 1.4913
+Model saved!
+weibo_8x_30: Pre-training Epoch  26, Time: 39.180s, 2022-07-17, 17:54, Train Loss: 1.6773
+weibo_8x_30: Pre-training Epoch  27, Time: 38.503s, 2022-07-17, 17:54, Train Loss: 1.5117
+weibo_8x_30: Pre-training Epoch  28, Time: 39.605s, 2022-07-17, 17:55, Train Loss: 1.5974
+weibo_8x_30: Pre-training Epoch  29, Time: 35.170s, 2022-07-17, 17:56, Train Loss: 1.6084
+weibo_8x_30: Pre-training Epoch  30, Time: 33.421s, 2022-07-17, 17:56, Train Loss: 1.5772
+Finished! Time used: 22.413min

@@ -1,0 +1,24 @@
+nohup: 忽略输入
+cuda:3
+# pre-training samples 5866
+weibo_8x_10: Pre-training Epoch   1, Time: 44.103s, 2022-07-17, 17:03, Train Loss: 3.6633
+Model saved!
+weibo_8x_10: Pre-training Epoch   2, Time: 44.438s, 2022-07-17, 17:04, Train Loss: 3.0439
+Model saved!
+weibo_8x_10: Pre-training Epoch   3, Time: 42.429s, 2022-07-17, 17:04, Train Loss: 2.7552
+Model saved!
+weibo_8x_10: Pre-training Epoch   4, Time: 42.442s, 2022-07-17, 17:05, Train Loss: 2.5370
+Model saved!
+weibo_8x_10: Pre-training Epoch   5, Time: 42.338s, 2022-07-17, 17:06, Train Loss: 2.4635
+Model saved!
+weibo_8x_10: Pre-training Epoch   6, Time: 42.174s, 2022-07-17, 17:06, Train Loss: 2.3098
+Model saved!
+weibo_8x_10: Pre-training Epoch   7, Time: 44.994s, 2022-07-17, 17:07, Train Loss: 2.1877
+Model saved!
+weibo_8x_10: Pre-training Epoch   8, Time: 43.361s, 2022-07-17, 17:08, Train Loss: 2.1243
+Model saved!
+weibo_8x_10: Pre-training Epoch   9, Time: 42.541s, 2022-07-17, 17:09, Train Loss: 2.0901
+Model saved!
+weibo_8x_10: Pre-training Epoch  10, Time: 41.072s, 2022-07-17, 17:09, Train Loss: 1.9360
+Model saved!
+Finished! Time used: 7.358min

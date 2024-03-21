@@ -1,0 +1,40 @@
+nohup: 忽略输入
+cuda:3
+# pre-training samples 5866
+weibo_8x_20: Pre-training Epoch   1, Time: 42.283s, 2022-07-17, 17:14, Train Loss: 3.6549
+Model saved!
+weibo_8x_20: Pre-training Epoch   2, Time: 44.856s, 2022-07-17, 17:15, Train Loss: 2.9498
+Model saved!
+weibo_8x_20: Pre-training Epoch   3, Time: 44.715s, 2022-07-17, 17:16, Train Loss: 2.6717
+Model saved!
+weibo_8x_20: Pre-training Epoch   4, Time: 43.936s, 2022-07-17, 17:17, Train Loss: 2.5512
+Model saved!
+weibo_8x_20: Pre-training Epoch   5, Time: 45.037s, 2022-07-17, 17:17, Train Loss: 2.4777
+Model saved!
+weibo_8x_20: Pre-training Epoch   6, Time: 42.963s, 2022-07-17, 17:18, Train Loss: 2.3581
+Model saved!
+weibo_8x_20: Pre-training Epoch   7, Time: 43.668s, 2022-07-17, 17:19, Train Loss: 2.1865
+Model saved!
+weibo_8x_20: Pre-training Epoch   8, Time: 43.813s, 2022-07-17, 17:20, Train Loss: 2.1498
+Model saved!
+weibo_8x_20: Pre-training Epoch   9, Time: 44.980s, 2022-07-17, 17:20, Train Loss: 2.0930
+Model saved!
+weibo_8x_20: Pre-training Epoch  10, Time: 45.232s, 2022-07-17, 17:21, Train Loss: 2.0437
+Model saved!
+weibo_8x_20: Pre-training Epoch  11, Time: 43.796s, 2022-07-17, 17:22, Train Loss: 1.9710
+Model saved!
+weibo_8x_20: Pre-training Epoch  12, Time: 43.703s, 2022-07-17, 17:23, Train Loss: 1.9524
+Model saved!
+weibo_8x_20: Pre-training Epoch  13, Time: 45.052s, 2022-07-17, 17:23, Train Loss: 1.8724
+Model saved!
+weibo_8x_20: Pre-training Epoch  14, Time: 45.100s, 2022-07-17, 17:24, Train Loss: 2.0302
+weibo_8x_20: Pre-training Epoch  15, Time: 44.133s, 2022-07-17, 17:25, Train Loss: 1.8817
+weibo_8x_20: Pre-training Epoch  16, Time: 43.942s, 2022-07-17, 17:26, Train Loss: 1.8599
+Model saved!
+weibo_8x_20: Pre-training Epoch  17, Time: 45.629s, 2022-07-17, 17:26, Train Loss: 1.7233
+Model saved!
+weibo_8x_20: Pre-training Epoch  18, Time: 44.186s, 2022-07-17, 17:27, Train Loss: 1.7408
+weibo_8x_20: Pre-training Epoch  19, Time: 43.446s, 2022-07-17, 17:28, Train Loss: 1.7317
+weibo_8x_20: Pre-training Epoch  20, Time: 34.119s, 2022-07-17, 17:28, Train Loss: 1.6620
+Model saved!
+Finished! Time used: 14.770min

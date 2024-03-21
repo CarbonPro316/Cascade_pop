@@ -1,0 +1,41 @@
+nohup: 忽略输入
+cuda:3
+# pre-training samples 5866
+weibo_1x_20: Pre-training Epoch   1, Time: 39.845s, 2022-07-17, 17:14, Train Loss: 4.2143
+Model saved!
+weibo_1x_20: Pre-training Epoch   2, Time: 40.952s, 2022-07-17, 17:15, Train Loss: 3.4821
+Model saved!
+weibo_1x_20: Pre-training Epoch   3, Time: 41.919s, 2022-07-17, 17:16, Train Loss: 3.1466
+Model saved!
+weibo_1x_20: Pre-training Epoch   4, Time: 40.292s, 2022-07-17, 17:16, Train Loss: 3.0154
+Model saved!
+weibo_1x_20: Pre-training Epoch   5, Time: 41.540s, 2022-07-17, 17:17, Train Loss: 2.9415
+Model saved!
+weibo_1x_20: Pre-training Epoch   6, Time: 41.491s, 2022-07-17, 17:18, Train Loss: 2.8337
+Model saved!
+weibo_1x_20: Pre-training Epoch   7, Time: 42.278s, 2022-07-17, 17:19, Train Loss: 2.7883
+Model saved!
+weibo_1x_20: Pre-training Epoch   8, Time: 42.766s, 2022-07-17, 17:19, Train Loss: 2.7365
+Model saved!
+weibo_1x_20: Pre-training Epoch   9, Time: 41.926s, 2022-07-17, 17:20, Train Loss: 2.6611
+Model saved!
+weibo_1x_20: Pre-training Epoch  10, Time: 41.725s, 2022-07-17, 17:21, Train Loss: 2.6120
+Model saved!
+weibo_1x_20: Pre-training Epoch  11, Time: 41.744s, 2022-07-17, 17:21, Train Loss: 2.5915
+Model saved!
+weibo_1x_20: Pre-training Epoch  12, Time: 41.420s, 2022-07-17, 17:22, Train Loss: 2.5444
+Model saved!
+weibo_1x_20: Pre-training Epoch  13, Time: 42.350s, 2022-07-17, 17:23, Train Loss: 2.5392
+Model saved!
+weibo_1x_20: Pre-training Epoch  14, Time: 42.028s, 2022-07-17, 17:23, Train Loss: 2.4996
+Model saved!
+weibo_1x_20: Pre-training Epoch  15, Time: 41.668s, 2022-07-17, 17:24, Train Loss: 2.4715
+Model saved!
+weibo_1x_20: Pre-training Epoch  16, Time: 41.276s, 2022-07-17, 17:25, Train Loss: 2.3790
+Model saved!
+weibo_1x_20: Pre-training Epoch  17, Time: 42.228s, 2022-07-17, 17:26, Train Loss: 2.4229
+weibo_1x_20: Pre-training Epoch  18, Time: 42.856s, 2022-07-17, 17:26, Train Loss: 2.4076
+weibo_1x_20: Pre-training Epoch  19, Time: 41.803s, 2022-07-17, 17:27, Train Loss: 2.3950
+weibo_1x_20: Pre-training Epoch  20, Time: 42.226s, 2022-07-17, 17:28, Train Loss: 2.3523
+Model saved!
+Finished! Time used: 14.077min

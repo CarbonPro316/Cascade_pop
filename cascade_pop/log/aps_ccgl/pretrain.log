@@ -1,0 +1,63 @@
+nohup: 忽略输入
+cuda:1
+# pre-training samples 31069
+aps_ccgl: Pre-training Epoch   1, Time: 85.856s, 2022-07-09, 19:40, Train Loss: 2.3040
+Model saved!
+aps_ccgl: Pre-training Epoch   2, Time: 81.479s, 2022-07-09, 19:42, Train Loss: 1.2042
+Model saved!
+aps_ccgl: Pre-training Epoch   3, Time: 85.404s, 2022-07-09, 19:43, Train Loss: 0.9644
+Model saved!
+aps_ccgl: Pre-training Epoch   4, Time: 85.136s, 2022-07-09, 19:44, Train Loss: 0.8977
+Model saved!
+aps_ccgl: Pre-training Epoch   5, Time: 84.215s, 2022-07-09, 19:46, Train Loss: 0.8245
+Model saved!
+aps_ccgl: Pre-training Epoch   6, Time: 87.232s, 2022-07-09, 19:47, Train Loss: 0.7682
+Model saved!
+aps_ccgl: Pre-training Epoch   7, Time: 88.492s, 2022-07-09, 19:49, Train Loss: 0.7399
+Model saved!
+aps_ccgl: Pre-training Epoch   8, Time: 86.999s, 2022-07-09, 19:50, Train Loss: 0.6978
+Model saved!
+aps_ccgl: Pre-training Epoch   9, Time: 84.059s, 2022-07-09, 19:52, Train Loss: 0.5909
+Model saved!
+aps_ccgl: Pre-training Epoch  10, Time: 79.523s, 2022-07-09, 19:53, Train Loss: 0.5167
+Model saved!
+aps_ccgl: Pre-training Epoch  11, Time: 71.027s, 2022-07-09, 19:54, Train Loss: 0.4734
+Model saved!
+aps_ccgl: Pre-training Epoch  12, Time: 75.526s, 2022-07-09, 19:55, Train Loss: 0.4479
+Model saved!
+aps_ccgl: Pre-training Epoch  13, Time: 71.975s, 2022-07-09, 19:57, Train Loss: 0.4263
+Model saved!
+aps_ccgl: Pre-training Epoch  14, Time: 76.903s, 2022-07-09, 19:58, Train Loss: 0.4209
+Model saved!
+aps_ccgl: Pre-training Epoch  15, Time: 76.577s, 2022-07-09, 19:59, Train Loss: 0.4009
+Model saved!
+aps_ccgl: Pre-training Epoch  16, Time: 73.108s, 2022-07-09, 20:00, Train Loss: 0.3951
+Model saved!
+aps_ccgl: Pre-training Epoch  17, Time: 66.350s, 2022-07-09, 20:01, Train Loss: 0.3744
+Model saved!
+aps_ccgl: Pre-training Epoch  18, Time: 59.507s, 2022-07-09, 20:02, Train Loss: 0.3656
+Model saved!
+aps_ccgl: Pre-training Epoch  19, Time: 58.793s, 2022-07-09, 20:03, Train Loss: 0.3664
+aps_ccgl: Pre-training Epoch  20, Time: 54.406s, 2022-07-09, 20:04, Train Loss: 0.3543
+Model saved!
+aps_ccgl: Pre-training Epoch  21, Time: 52.765s, 2022-07-09, 20:05, Train Loss: 0.3259
+Model saved!
+aps_ccgl: Pre-training Epoch  22, Time: 49.657s, 2022-07-09, 20:06, Train Loss: 0.3131
+Model saved!
+aps_ccgl: Pre-training Epoch  23, Time: 48.607s, 2022-07-09, 20:07, Train Loss: 0.3005
+Model saved!
+aps_ccgl: Pre-training Epoch  24, Time: 52.002s, 2022-07-09, 20:08, Train Loss: 0.2988
+Model saved!
+aps_ccgl: Pre-training Epoch  25, Time: 54.335s, 2022-07-09, 20:09, Train Loss: 0.2821
+Model saved!
+aps_ccgl: Pre-training Epoch  26, Time: 46.272s, 2022-07-09, 20:09, Train Loss: 0.2739
+Model saved!
+aps_ccgl: Pre-training Epoch  27, Time: 46.265s, 2022-07-09, 20:10, Train Loss: 0.2639
+Model saved!
+aps_ccgl: Pre-training Epoch  28, Time: 44.342s, 2022-07-09, 20:11, Train Loss: 0.2626
+Model saved!
+aps_ccgl: Pre-training Epoch  29, Time: 44.424s, 2022-07-09, 20:12, Train Loss: 0.2537
+Model saved!
+aps_ccgl: Pre-training Epoch  30, Time: 45.771s, 2022-07-09, 20:12, Train Loss: 0.2504
+Model saved!
+Finished! Time used: 56.120min

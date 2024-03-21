@@ -1,0 +1,50 @@
+nohup: 忽略输入
+cuda:1
+# pre-training samples 8729
+twitter_ccgl: Pre-training Epoch   1, Time: 29.224s, 2022-07-09, 19:39, Train Loss: 2.6948
+Model saved!
+twitter_ccgl: Pre-training Epoch   2, Time: 24.474s, 2022-07-09, 19:40, Train Loss: 1.8516
+Model saved!
+twitter_ccgl: Pre-training Epoch   3, Time: 25.378s, 2022-07-09, 19:40, Train Loss: 1.4740
+Model saved!
+twitter_ccgl: Pre-training Epoch   4, Time: 24.250s, 2022-07-09, 19:40, Train Loss: 1.1743
+Model saved!
+twitter_ccgl: Pre-training Epoch   5, Time: 25.584s, 2022-07-09, 19:41, Train Loss: 1.0331
+Model saved!
+twitter_ccgl: Pre-training Epoch   6, Time: 26.580s, 2022-07-09, 19:41, Train Loss: 0.8100
+Model saved!
+twitter_ccgl: Pre-training Epoch   7, Time: 27.412s, 2022-07-09, 19:42, Train Loss: 0.7555
+Model saved!
+twitter_ccgl: Pre-training Epoch   8, Time: 26.701s, 2022-07-09, 19:42, Train Loss: 0.6546
+Model saved!
+twitter_ccgl: Pre-training Epoch   9, Time: 26.987s, 2022-07-09, 19:43, Train Loss: 0.7396
+twitter_ccgl: Pre-training Epoch  10, Time: 24.946s, 2022-07-09, 19:43, Train Loss: 0.6370
+Model saved!
+twitter_ccgl: Pre-training Epoch  11, Time: 24.568s, 2022-07-09, 19:44, Train Loss: 0.5880
+Model saved!
+twitter_ccgl: Pre-training Epoch  12, Time: 27.080s, 2022-07-09, 19:44, Train Loss: 0.5967
+twitter_ccgl: Pre-training Epoch  13, Time: 27.414s, 2022-07-09, 19:44, Train Loss: 0.5375
+Model saved!
+twitter_ccgl: Pre-training Epoch  14, Time: 25.007s, 2022-07-09, 19:45, Train Loss: 0.5750
+twitter_ccgl: Pre-training Epoch  15, Time: 26.032s, 2022-07-09, 19:45, Train Loss: 0.5141
+Model saved!
+twitter_ccgl: Pre-training Epoch  16, Time: 26.329s, 2022-07-09, 19:46, Train Loss: 0.5272
+twitter_ccgl: Pre-training Epoch  17, Time: 27.946s, 2022-07-09, 19:46, Train Loss: 0.4916
+Model saved!
+twitter_ccgl: Pre-training Epoch  18, Time: 25.407s, 2022-07-09, 19:47, Train Loss: 0.4916
+twitter_ccgl: Pre-training Epoch  19, Time: 25.470s, 2022-07-09, 19:47, Train Loss: 0.4777
+Model saved!
+twitter_ccgl: Pre-training Epoch  20, Time: 25.107s, 2022-07-09, 19:47, Train Loss: 0.4958
+twitter_ccgl: Pre-training Epoch  21, Time: 24.530s, 2022-07-09, 19:48, Train Loss: 0.6591
+twitter_ccgl: Pre-training Epoch  22, Time: 23.484s, 2022-07-09, 19:48, Train Loss: 0.5686
+twitter_ccgl: Pre-training Epoch  23, Time: 23.932s, 2022-07-09, 19:49, Train Loss: 0.5229
+twitter_ccgl: Pre-training Epoch  24, Time: 24.380s, 2022-07-09, 19:49, Train Loss: 0.4964
+twitter_ccgl: Pre-training Epoch  25, Time: 24.143s, 2022-07-09, 19:49, Train Loss: 0.4900
+twitter_ccgl: Pre-training Epoch  26, Time: 23.852s, 2022-07-09, 19:50, Train Loss: 0.4292
+Model saved!
+twitter_ccgl: Pre-training Epoch  27, Time: 24.177s, 2022-07-09, 19:50, Train Loss: 0.4156
+Model saved!
+twitter_ccgl: Pre-training Epoch  28, Time: 23.867s, 2022-07-09, 19:51, Train Loss: 0.5070
+twitter_ccgl: Pre-training Epoch  29, Time: 24.456s, 2022-07-09, 19:51, Train Loss: 0.4543
+twitter_ccgl: Pre-training Epoch  30, Time: 24.803s, 2022-07-09, 19:51, Train Loss: 0.4173
+Finished! Time used: 35.249min

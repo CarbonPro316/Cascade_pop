@@ -1,0 +1,93 @@
+nohup: 忽略输入
+cuda:1
+# fine-tuning samples 2344
+#  validation samples 502
+#        test samples 502
+acm_ccgl: Fine-tuning Epoch   1, Time: 3.238s, Train Loss: 1.426, Val Loss: 0.817, Test Loss: 0.870, LOG2 MSLE: 2.039
+Model saved!
+acm_ccgl: Fine-tuning Epoch   2, Time: 3.729s, Train Loss: 0.862, Val Loss: 0.783, Test Loss: 0.843, LOG2 MSLE: 1.897
+Model saved!
+acm_ccgl: Fine-tuning Epoch   3, Time: 2.918s, Train Loss: 0.852, Val Loss: 0.781, Test Loss: 0.842, LOG2 MSLE: 1.888
+Model saved!
+acm_ccgl: Fine-tuning Epoch   4, Time: 3.047s, Train Loss: 0.853, Val Loss: 0.778, Test Loss: 0.841, LOG2 MSLE: 1.878
+Model saved!
+acm_ccgl: Fine-tuning Epoch   5, Time: 3.131s, Train Loss: 0.854, Val Loss: 0.779, Test Loss: 0.840, LOG2 MSLE: 1.880
+acm_ccgl: Fine-tuning Epoch   6, Time: 2.980s, Train Loss: 0.850, Val Loss: 0.778, Test Loss: 0.838, LOG2 MSLE: 1.879
+acm_ccgl: Fine-tuning Epoch   7, Time: 3.020s, Train Loss: 0.850, Val Loss: 0.780, Test Loss: 0.838, LOG2 MSLE: 1.885
+acm_ccgl: Fine-tuning Epoch   8, Time: 2.957s, Train Loss: 0.848, Val Loss: 0.766, Test Loss: 0.826, LOG2 MSLE: 1.823
+Model saved!
+acm_ccgl: Fine-tuning Epoch   9, Time: 3.037s, Train Loss: 0.835, Val Loss: 0.738, Test Loss: 0.799, LOG2 MSLE: 1.718
+Model saved!
+acm_ccgl: Fine-tuning Epoch  10, Time: 2.910s, Train Loss: 0.835, Val Loss: 0.744, Test Loss: 0.807, LOG2 MSLE: 1.744
+acm_ccgl: Fine-tuning Epoch  11, Time: 3.412s, Train Loss: 0.820, Val Loss: 0.720, Test Loss: 0.783, LOG2 MSLE: 1.648
+Model saved!
+acm_ccgl: Fine-tuning Epoch  12, Time: 3.124s, Train Loss: 0.813, Val Loss: 0.757, Test Loss: 0.819, LOG2 MSLE: 1.815
+acm_ccgl: Fine-tuning Epoch  13, Time: 3.087s, Train Loss: 0.797, Val Loss: 0.721, Test Loss: 0.792, LOG2 MSLE: 1.650
+acm_ccgl: Fine-tuning Epoch  14, Time: 2.854s, Train Loss: 0.816, Val Loss: 0.727, Test Loss: 0.792, LOG2 MSLE: 1.690
+acm_ccgl: Fine-tuning Epoch  15, Time: 2.989s, Train Loss: 0.805, Val Loss: 0.820, Test Loss: 0.875, LOG2 MSLE: 2.065
+acm_ccgl: Fine-tuning Epoch  16, Time: 2.892s, Train Loss: 0.798, Val Loss: 0.712, Test Loss: 0.774, LOG2 MSLE: 1.581
+Model saved!
+acm_ccgl: Fine-tuning Epoch  17, Time: 2.900s, Train Loss: 0.776, Val Loss: 0.697, Test Loss: 0.759, LOG2 MSLE: 1.551
+Model saved!
+acm_ccgl: Fine-tuning Epoch  18, Time: 3.062s, Train Loss: 0.789, Val Loss: 0.722, Test Loss: 0.783, LOG2 MSLE: 1.661
+acm_ccgl: Fine-tuning Epoch  19, Time: 3.060s, Train Loss: 0.780, Val Loss: 0.693, Test Loss: 0.754, LOG2 MSLE: 1.516
+Model saved!
+acm_ccgl: Fine-tuning Epoch  20, Time: 3.097s, Train Loss: 0.777, Val Loss: 0.696, Test Loss: 0.755, LOG2 MSLE: 1.513
+acm_ccgl: Fine-tuning Epoch  21, Time: 3.033s, Train Loss: 0.769, Val Loss: 0.698, Test Loss: 0.757, LOG2 MSLE: 1.527
+acm_ccgl: Fine-tuning Epoch  22, Time: 3.100s, Train Loss: 0.769, Val Loss: 0.734, Test Loss: 0.792, LOG2 MSLE: 1.700
+acm_ccgl: Fine-tuning Epoch  23, Time: 3.044s, Train Loss: 0.777, Val Loss: 0.705, Test Loss: 0.767, LOG2 MSLE: 1.590
+acm_ccgl: Fine-tuning Epoch  24, Time: 3.109s, Train Loss: 0.776, Val Loss: 0.707, Test Loss: 0.768, LOG2 MSLE: 1.554
+acm_ccgl: Fine-tuning Epoch  25, Time: 2.971s, Train Loss: 0.776, Val Loss: 0.691, Test Loss: 0.753, LOG2 MSLE: 1.520
+Model saved!
+acm_ccgl: Fine-tuning Epoch  26, Time: 2.590s, Train Loss: 0.765, Val Loss: 0.690, Test Loss: 0.753, LOG2 MSLE: 1.520
+Model saved!
+acm_ccgl: Fine-tuning Epoch  27, Time: 2.723s, Train Loss: 0.779, Val Loss: 0.692, Test Loss: 0.754, LOG2 MSLE: 1.514
+acm_ccgl: Fine-tuning Epoch  28, Time: 2.549s, Train Loss: 0.770, Val Loss: 0.697, Test Loss: 0.760, LOG2 MSLE: 1.555
+acm_ccgl: Fine-tuning Epoch  29, Time: 2.601s, Train Loss: 0.762, Val Loss: 0.705, Test Loss: 0.766, LOG2 MSLE: 1.584
+acm_ccgl: Fine-tuning Epoch  30, Time: 2.607s, Train Loss: 0.768, Val Loss: 0.696, Test Loss: 0.758, LOG2 MSLE: 1.551
+acm_ccgl: Fine-tuning Epoch  31, Time: 2.539s, Train Loss: 0.769, Val Loss: 0.689, Test Loss: 0.753, LOG2 MSLE: 1.512
+Model saved!
+acm_ccgl: Fine-tuning Epoch  32, Time: 2.581s, Train Loss: 0.773, Val Loss: 0.703, Test Loss: 0.760, LOG2 MSLE: 1.527
+acm_ccgl: Fine-tuning Epoch  33, Time: 2.724s, Train Loss: 0.771, Val Loss: 0.733, Test Loss: 0.792, LOG2 MSLE: 1.696
+acm_ccgl: Fine-tuning Epoch  34, Time: 2.698s, Train Loss: 0.766, Val Loss: 0.689, Test Loss: 0.755, LOG2 MSLE: 1.528
+Model saved!
+acm_ccgl: Fine-tuning Epoch  35, Time: 2.726s, Train Loss: 0.763, Val Loss: 0.696, Test Loss: 0.758, LOG2 MSLE: 1.553
+acm_ccgl: Fine-tuning Epoch  36, Time: 2.935s, Train Loss: 0.764, Val Loss: 0.689, Test Loss: 0.751, LOG2 MSLE: 1.512
+Model saved!
+acm_ccgl: Fine-tuning Epoch  37, Time: 2.713s, Train Loss: 0.770, Val Loss: 0.693, Test Loss: 0.759, LOG2 MSLE: 1.554
+acm_ccgl: Fine-tuning Epoch  38, Time: 2.807s, Train Loss: 0.765, Val Loss: 0.700, Test Loss: 0.763, LOG2 MSLE: 1.576
+acm_ccgl: Fine-tuning Epoch  39, Time: 2.870s, Train Loss: 0.769, Val Loss: 0.704, Test Loss: 0.766, LOG2 MSLE: 1.587
+acm_ccgl: Fine-tuning Epoch  40, Time: 2.817s, Train Loss: 0.762, Val Loss: 0.691, Test Loss: 0.754, LOG2 MSLE: 1.528
+acm_ccgl: Fine-tuning Epoch  41, Time: 2.737s, Train Loss: 0.766, Val Loss: 0.725, Test Loss: 0.787, LOG2 MSLE: 1.676
+acm_ccgl: Fine-tuning Epoch  42, Time: 2.810s, Train Loss: 0.762, Val Loss: 0.698, Test Loss: 0.761, LOG2 MSLE: 1.565
+acm_ccgl: Fine-tuning Epoch  43, Time: 2.532s, Train Loss: 0.766, Val Loss: 0.687, Test Loss: 0.752, LOG2 MSLE: 1.515
+Model saved!
+acm_ccgl: Fine-tuning Epoch  44, Time: 2.854s, Train Loss: 0.772, Val Loss: 0.689, Test Loss: 0.752, LOG2 MSLE: 1.509
+acm_ccgl: Fine-tuning Epoch  45, Time: 2.614s, Train Loss: 0.764, Val Loss: 0.691, Test Loss: 0.753, LOG2 MSLE: 1.524
+acm_ccgl: Fine-tuning Epoch  46, Time: 2.755s, Train Loss: 0.765, Val Loss: 0.706, Test Loss: 0.768, LOG2 MSLE: 1.569
+acm_ccgl: Fine-tuning Epoch  47, Time: 2.802s, Train Loss: 0.766, Val Loss: 0.697, Test Loss: 0.760, LOG2 MSLE: 1.529
+acm_ccgl: Fine-tuning Epoch  48, Time: 2.850s, Train Loss: 0.764, Val Loss: 0.687, Test Loss: 0.752, LOG2 MSLE: 1.521
+Model saved!
+acm_ccgl: Fine-tuning Epoch  49, Time: 2.821s, Train Loss: 0.757, Val Loss: 0.690, Test Loss: 0.753, LOG2 MSLE: 1.523
+acm_ccgl: Fine-tuning Epoch  50, Time: 2.818s, Train Loss: 0.761, Val Loss: 0.692, Test Loss: 0.754, LOG2 MSLE: 1.536
+acm_ccgl: Fine-tuning Epoch  51, Time: 2.731s, Train Loss: 0.770, Val Loss: 0.729, Test Loss: 0.791, LOG2 MSLE: 1.700
+acm_ccgl: Fine-tuning Epoch  52, Time: 2.559s, Train Loss: 0.766, Val Loss: 0.687, Test Loss: 0.751, LOG2 MSLE: 1.511
+acm_ccgl: Fine-tuning Epoch  53, Time: 2.696s, Train Loss: 0.770, Val Loss: 0.690, Test Loss: 0.755, LOG2 MSLE: 1.513
+acm_ccgl: Fine-tuning Epoch  54, Time: 2.646s, Train Loss: 0.769, Val Loss: 0.695, Test Loss: 0.758, LOG2 MSLE: 1.551
+acm_ccgl: Fine-tuning Epoch  55, Time: 2.528s, Train Loss: 0.769, Val Loss: 0.688, Test Loss: 0.753, LOG2 MSLE: 1.522
+acm_ccgl: Fine-tuning Epoch  56, Time: 2.650s, Train Loss: 0.760, Val Loss: 0.698, Test Loss: 0.763, LOG2 MSLE: 1.572
+acm_ccgl: Fine-tuning Epoch  57, Time: 2.641s, Train Loss: 0.767, Val Loss: 0.693, Test Loss: 0.759, LOG2 MSLE: 1.553
+acm_ccgl: Fine-tuning Epoch  58, Time: 2.471s, Train Loss: 0.767, Val Loss: 0.689, Test Loss: 0.754, LOG2 MSLE: 1.530
+acm_ccgl: Fine-tuning Epoch  59, Time: 2.533s, Train Loss: 0.766, Val Loss: 0.692, Test Loss: 0.755, LOG2 MSLE: 1.511
+acm_ccgl: Fine-tuning Epoch  60, Time: 2.282s, Train Loss: 0.772, Val Loss: 0.689, Test Loss: 0.754, LOG2 MSLE: 1.517
+acm_ccgl: Fine-tuning Epoch  61, Time: 2.546s, Train Loss: 0.770, Val Loss: 0.726, Test Loss: 0.787, LOG2 MSLE: 1.640
+acm_ccgl: Fine-tuning Epoch  62, Time: 2.385s, Train Loss: 0.776, Val Loss: 0.710, Test Loss: 0.771, LOG2 MSLE: 1.613
+acm_ccgl: Fine-tuning Epoch  63, Time: 2.331s, Train Loss: 0.767, Val Loss: 0.688, Test Loss: 0.752, LOG2 MSLE: 1.517
+acm_ccgl: Fine-tuning Epoch  64, Time: 2.454s, Train Loss: 0.765, Val Loss: 0.696, Test Loss: 0.755, LOG2 MSLE: 1.524
+acm_ccgl: Fine-tuning Epoch  65, Time: 2.481s, Train Loss: 0.792, Val Loss: 0.706, Test Loss: 0.765, LOG2 MSLE: 1.566
+acm_ccgl: Fine-tuning Epoch  66, Time: 2.420s, Train Loss: 0.800, Val Loss: 0.700, Test Loss: 0.768, LOG2 MSLE: 1.588
+acm_ccgl: Fine-tuning Epoch  67, Time: 2.286s, Train Loss: 0.765, Val Loss: 0.704, Test Loss: 0.766, LOG2 MSLE: 1.587
+acm_ccgl: Fine-tuning Epoch  68, Time: 2.344s, Train Loss: 0.760, Val Loss: 0.693, Test Loss: 0.757, LOG2 MSLE: 1.545
+Predictions saved! Best Test MSLE: 1.520737950185089
+Best Test MAPE: 0.2727794451125932
+Finished! Time used: 3.301min

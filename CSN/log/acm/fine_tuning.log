@@ -1,0 +1,54 @@
+nohup: 忽略输入
+cuda:2
+# fine-tuning samples 3686
+#  validation samples 1230
+#        test samples 1228
+acm: Fine-tuning Epoch   1, Time: 10.869s, Train Loss: 2.092, Val Loss: 1.230, Test Loss: 1.279, LOG2 MSLE: 3.664
+Model saved!
+acm: Fine-tuning Epoch   2, Time: 9.673s, Train Loss: 1.202, Val Loss: 1.282, Test Loss: 1.271, LOG2 MSLE: 3.652
+acm: Fine-tuning Epoch   3, Time: 10.368s, Train Loss: 1.188, Val Loss: 1.233, Test Loss: 1.237, LOG2 MSLE: 3.448
+acm: Fine-tuning Epoch   4, Time: 9.799s, Train Loss: 1.058, Val Loss: 0.976, Test Loss: 1.058, LOG2 MSLE: 2.490
+Model saved!
+acm: Fine-tuning Epoch   5, Time: 10.853s, Train Loss: 0.925, Val Loss: 0.867, Test Loss: 0.990, LOG2 MSLE: 2.198
+Model saved!
+acm: Fine-tuning Epoch   6, Time: 11.018s, Train Loss: 0.875, Val Loss: 0.747, Test Loss: 0.969, LOG2 MSLE: 2.152
+Model saved!
+acm: Fine-tuning Epoch   7, Time: 9.404s, Train Loss: 0.859, Val Loss: 0.781, Test Loss: 0.953, LOG2 MSLE: 2.069
+acm: Fine-tuning Epoch   8, Time: 9.565s, Train Loss: 0.838, Val Loss: 0.859, Test Loss: 0.963, LOG2 MSLE: 2.099
+acm: Fine-tuning Epoch   9, Time: 9.972s, Train Loss: 0.831, Val Loss: 0.848, Test Loss: 0.941, LOG2 MSLE: 2.004
+acm: Fine-tuning Epoch  10, Time: 9.666s, Train Loss: 0.817, Val Loss: 0.940, Test Loss: 0.961, LOG2 MSLE: 2.097
+acm: Fine-tuning Epoch  11, Time: 9.709s, Train Loss: 0.816, Val Loss: 0.808, Test Loss: 0.929, LOG2 MSLE: 1.961
+acm: Fine-tuning Epoch  12, Time: 9.787s, Train Loss: 0.809, Val Loss: 0.837, Test Loss: 0.922, LOG2 MSLE: 1.927
+acm: Fine-tuning Epoch  13, Time: 9.751s, Train Loss: 0.804, Val Loss: 0.821, Test Loss: 0.921, LOG2 MSLE: 1.923
+acm: Fine-tuning Epoch  14, Time: 9.968s, Train Loss: 0.799, Val Loss: 0.875, Test Loss: 0.938, LOG2 MSLE: 1.998
+acm: Fine-tuning Epoch  15, Time: 9.999s, Train Loss: 0.804, Val Loss: 0.764, Test Loss: 0.907, LOG2 MSLE: 1.881
+acm: Fine-tuning Epoch  16, Time: 9.418s, Train Loss: 0.794, Val Loss: 0.801, Test Loss: 0.905, LOG2 MSLE: 1.864
+acm: Fine-tuning Epoch  17, Time: 9.675s, Train Loss: 0.793, Val Loss: 0.827, Test Loss: 0.911, LOG2 MSLE: 1.888
+acm: Fine-tuning Epoch  18, Time: 9.978s, Train Loss: 0.789, Val Loss: 0.886, Test Loss: 0.934, LOG2 MSLE: 1.978
+acm: Fine-tuning Epoch  19, Time: 10.627s, Train Loss: 0.793, Val Loss: 0.863, Test Loss: 0.924, LOG2 MSLE: 1.934
+acm: Fine-tuning Epoch  20, Time: 9.535s, Train Loss: 0.790, Val Loss: 0.834, Test Loss: 0.927, LOG2 MSLE: 1.946
+acm: Fine-tuning Epoch  21, Time: 9.277s, Train Loss: 0.793, Val Loss: 0.733, Test Loss: 0.917, LOG2 MSLE: 1.949
+Model saved!
+acm: Fine-tuning Epoch  22, Time: 9.928s, Train Loss: 0.787, Val Loss: 0.796, Test Loss: 0.899, LOG2 MSLE: 1.844
+acm: Fine-tuning Epoch  23, Time: 9.671s, Train Loss: 0.787, Val Loss: 0.788, Test Loss: 0.905, LOG2 MSLE: 1.874
+acm: Fine-tuning Epoch  24, Time: 9.490s, Train Loss: 0.794, Val Loss: 0.908, Test Loss: 0.939, LOG2 MSLE: 1.997
+acm: Fine-tuning Epoch  25, Time: 9.610s, Train Loss: 0.786, Val Loss: 0.801, Test Loss: 0.904, LOG2 MSLE: 1.861
+acm: Fine-tuning Epoch  26, Time: 9.350s, Train Loss: 0.781, Val Loss: 0.831, Test Loss: 0.904, LOG2 MSLE: 1.856
+acm: Fine-tuning Epoch  27, Time: 9.325s, Train Loss: 0.784, Val Loss: 0.854, Test Loss: 0.924, LOG2 MSLE: 1.936
+acm: Fine-tuning Epoch  28, Time: 9.836s, Train Loss: 0.786, Val Loss: 0.892, Test Loss: 0.924, LOG2 MSLE: 1.936
+acm: Fine-tuning Epoch  29, Time: 9.254s, Train Loss: 0.785, Val Loss: 0.762, Test Loss: 0.893, LOG2 MSLE: 1.839
+acm: Fine-tuning Epoch  30, Time: 10.891s, Train Loss: 0.781, Val Loss: 0.774, Test Loss: 0.912, LOG2 MSLE: 1.900
+acm: Fine-tuning Epoch  31, Time: 9.627s, Train Loss: 0.778, Val Loss: 0.860, Test Loss: 0.911, LOG2 MSLE: 1.885
+acm: Fine-tuning Epoch  32, Time: 9.457s, Train Loss: 0.778, Val Loss: 0.847, Test Loss: 0.915, LOG2 MSLE: 1.904
+acm: Fine-tuning Epoch  33, Time: 9.726s, Train Loss: 0.780, Val Loss: 0.857, Test Loss: 0.918, LOG2 MSLE: 1.911
+acm: Fine-tuning Epoch  34, Time: 10.121s, Train Loss: 0.778, Val Loss: 0.758, Test Loss: 0.887, LOG2 MSLE: 1.810
+acm: Fine-tuning Epoch  35, Time: 9.304s, Train Loss: 0.778, Val Loss: 0.827, Test Loss: 0.898, LOG2 MSLE: 1.837
+acm: Fine-tuning Epoch  36, Time: 9.341s, Train Loss: 0.774, Val Loss: 0.793, Test Loss: 0.896, LOG2 MSLE: 1.828
+acm: Fine-tuning Epoch  37, Time: 8.910s, Train Loss: 0.791, Val Loss: 0.794, Test Loss: 0.924, LOG2 MSLE: 1.936
+acm: Fine-tuning Epoch  38, Time: 9.329s, Train Loss: 0.778, Val Loss: 0.739, Test Loss: 0.898, LOG2 MSLE: 1.860
+acm: Fine-tuning Epoch  39, Time: 9.439s, Train Loss: 0.778, Val Loss: 0.772, Test Loss: 0.888, LOG2 MSLE: 1.809
+acm: Fine-tuning Epoch  40, Time: 10.517s, Train Loss: 0.783, Val Loss: 0.820, Test Loss: 0.901, LOG2 MSLE: 1.843
+acm: Fine-tuning Epoch  41, Time: 10.401s, Train Loss: 0.774, Val Loss: 0.866, Test Loss: 0.924, LOG2 MSLE: 1.936
+Predictions saved! Best Test MSLE: 1.9491437552268003
+Best Test MAPE: 0.198551629957405
+Finished! Time used: 7.293min

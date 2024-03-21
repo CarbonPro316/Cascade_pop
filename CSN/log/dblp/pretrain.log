@@ -1,0 +1,56 @@
+nohup: 忽略输入
+cuda:2
+# pre-training samples 2607
+dblp: Pre-training Epoch   1, Time: 2.913s, 2024-02-20, 20:56, Train Loss: 2.8621
+Model saved!
+dblp: Pre-training Epoch   2, Time: 2.966s, 2024-02-20, 20:56, Train Loss: 1.4924
+Model saved!
+dblp: Pre-training Epoch   3, Time: 3.049s, 2024-02-20, 20:56, Train Loss: 0.9911
+Model saved!
+dblp: Pre-training Epoch   4, Time: 3.083s, 2024-02-20, 20:56, Train Loss: 0.8994
+Model saved!
+dblp: Pre-training Epoch   5, Time: 3.132s, 2024-02-20, 20:56, Train Loss: 0.7354
+Model saved!
+dblp: Pre-training Epoch   6, Time: 3.112s, 2024-02-20, 20:56, Train Loss: 0.6762
+Model saved!
+dblp: Pre-training Epoch   7, Time: 3.124s, 2024-02-20, 20:56, Train Loss: 0.5976
+Model saved!
+dblp: Pre-training Epoch   8, Time: 3.092s, 2024-02-20, 20:56, Train Loss: 0.5871
+Model saved!
+dblp: Pre-training Epoch   9, Time: 3.100s, 2024-02-20, 20:56, Train Loss: 0.5122
+Model saved!
+dblp: Pre-training Epoch  10, Time: 3.111s, 2024-02-20, 20:56, Train Loss: 0.4848
+Model saved!
+dblp: Pre-training Epoch  11, Time: 3.107s, 2024-02-20, 20:56, Train Loss: 0.4321
+Model saved!
+dblp: Pre-training Epoch  12, Time: 3.091s, 2024-02-20, 20:56, Train Loss: 0.4433
+dblp: Pre-training Epoch  13, Time: 3.079s, 2024-02-20, 20:56, Train Loss: 0.4287
+Model saved!
+dblp: Pre-training Epoch  14, Time: 3.110s, 2024-02-20, 20:57, Train Loss: 0.3881
+Model saved!
+dblp: Pre-training Epoch  15, Time: 3.105s, 2024-02-20, 20:57, Train Loss: 0.3428
+Model saved!
+dblp: Pre-training Epoch  16, Time: 3.092s, 2024-02-20, 20:57, Train Loss: 0.3683
+dblp: Pre-training Epoch  17, Time: 3.092s, 2024-02-20, 20:57, Train Loss: 0.3459
+dblp: Pre-training Epoch  18, Time: 3.080s, 2024-02-20, 20:57, Train Loss: 0.3644
+dblp: Pre-training Epoch  19, Time: 3.099s, 2024-02-20, 20:57, Train Loss: 0.3298
+Model saved!
+dblp: Pre-training Epoch  20, Time: 3.126s, 2024-02-20, 20:57, Train Loss: 0.3053
+Model saved!
+dblp: Pre-training Epoch  21, Time: 3.093s, 2024-02-20, 20:57, Train Loss: 0.3171
+dblp: Pre-training Epoch  22, Time: 3.131s, 2024-02-20, 20:57, Train Loss: 0.2976
+Model saved!
+dblp: Pre-training Epoch  23, Time: 3.076s, 2024-02-20, 20:57, Train Loss: 0.2893
+Model saved!
+dblp: Pre-training Epoch  24, Time: 3.066s, 2024-02-20, 20:57, Train Loss: 0.2855
+Model saved!
+dblp: Pre-training Epoch  25, Time: 3.036s, 2024-02-20, 20:57, Train Loss: 0.2875
+dblp: Pre-training Epoch  26, Time: 3.092s, 2024-02-20, 20:57, Train Loss: 0.2748
+Model saved!
+dblp: Pre-training Epoch  27, Time: 3.069s, 2024-02-20, 20:57, Train Loss: 0.2741
+Model saved!
+dblp: Pre-training Epoch  28, Time: 3.072s, 2024-02-20, 20:57, Train Loss: 0.2981
+dblp: Pre-training Epoch  29, Time: 3.061s, 2024-02-20, 20:57, Train Loss: 0.2712
+Model saved!
+dblp: Pre-training Epoch  30, Time: 3.060s, 2024-02-20, 20:57, Train Loss: 0.2743
+Finished! Time used: 1.629min

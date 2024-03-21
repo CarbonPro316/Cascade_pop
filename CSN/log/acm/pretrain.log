@@ -1,0 +1,55 @@
+nohup: 忽略输入
+cuda:2
+# pre-training samples 3686
+acm: Pre-training Epoch   1, Time: 15.781s, 2024-01-12, 00:08, Train Loss: 2.5406
+Model saved!
+acm: Pre-training Epoch   2, Time: 13.076s, 2024-01-12, 00:08, Train Loss: 1.3120
+Model saved!
+acm: Pre-training Epoch   3, Time: 14.047s, 2024-01-12, 00:08, Train Loss: 0.8789
+Model saved!
+acm: Pre-training Epoch   4, Time: 13.936s, 2024-01-12, 00:08, Train Loss: 0.7050
+Model saved!
+acm: Pre-training Epoch   5, Time: 14.105s, 2024-01-12, 00:08, Train Loss: 0.6492
+Model saved!
+acm: Pre-training Epoch   6, Time: 14.684s, 2024-01-12, 00:09, Train Loss: 0.5903
+Model saved!
+acm: Pre-training Epoch   7, Time: 12.519s, 2024-01-12, 00:09, Train Loss: 0.4622
+Model saved!
+acm: Pre-training Epoch   8, Time: 13.488s, 2024-01-12, 00:09, Train Loss: 0.4298
+Model saved!
+acm: Pre-training Epoch   9, Time: 13.319s, 2024-01-12, 00:09, Train Loss: 0.3823
+Model saved!
+acm: Pre-training Epoch  10, Time: 13.060s, 2024-01-12, 00:10, Train Loss: 0.3771
+Model saved!
+acm: Pre-training Epoch  11, Time: 13.828s, 2024-01-12, 00:10, Train Loss: 0.3766
+Model saved!
+acm: Pre-training Epoch  12, Time: 13.675s, 2024-01-12, 00:10, Train Loss: 0.4133
+acm: Pre-training Epoch  13, Time: 13.673s, 2024-01-12, 00:10, Train Loss: 0.4010
+acm: Pre-training Epoch  14, Time: 13.983s, 2024-01-12, 00:10, Train Loss: 0.3650
+Model saved!
+acm: Pre-training Epoch  15, Time: 13.296s, 2024-01-12, 00:11, Train Loss: 0.3343
+Model saved!
+acm: Pre-training Epoch  16, Time: 12.719s, 2024-01-12, 00:11, Train Loss: 0.3914
+acm: Pre-training Epoch  17, Time: 13.933s, 2024-01-12, 00:11, Train Loss: 0.4747
+acm: Pre-training Epoch  18, Time: 12.115s, 2024-01-12, 00:11, Train Loss: 0.3690
+acm: Pre-training Epoch  19, Time: 13.365s, 2024-01-12, 00:12, Train Loss: 0.3291
+Model saved!
+acm: Pre-training Epoch  20, Time: 12.900s, 2024-01-12, 00:12, Train Loss: 0.2892
+Model saved!
+acm: Pre-training Epoch  21, Time: 12.805s, 2024-01-12, 00:12, Train Loss: 0.3151
+acm: Pre-training Epoch  22, Time: 14.237s, 2024-01-12, 00:12, Train Loss: 0.3138
+acm: Pre-training Epoch  23, Time: 13.205s, 2024-01-12, 00:12, Train Loss: 0.2834
+Model saved!
+acm: Pre-training Epoch  24, Time: 12.659s, 2024-01-12, 00:13, Train Loss: 0.2994
+acm: Pre-training Epoch  25, Time: 12.029s, 2024-01-12, 00:13, Train Loss: 0.2708
+Model saved!
+acm: Pre-training Epoch  26, Time: 14.179s, 2024-01-12, 00:13, Train Loss: 0.2558
+Model saved!
+acm: Pre-training Epoch  27, Time: 12.903s, 2024-01-12, 00:13, Train Loss: 0.2515
+Model saved!
+acm: Pre-training Epoch  28, Time: 12.173s, 2024-01-12, 00:14, Train Loss: 0.2326
+Model saved!
+acm: Pre-training Epoch  29, Time: 12.619s, 2024-01-12, 00:14, Train Loss: 0.2260
+Model saved!
+acm: Pre-training Epoch  30, Time: 13.391s, 2024-01-12, 00:14, Train Loss: 0.2428
+Finished! Time used: 7.370min

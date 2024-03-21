@@ -1,0 +1,36 @@
+nohup: 忽略输入
+cuda:2
+# fine-tuning samples 19515
+#  validation samples 3900
+#        test samples 15603
+weibo: Fine-tuning Epoch   1, Time: 49.058s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   2, Time: 52.036s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   3, Time: 50.817s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   4, Time: 50.894s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   5, Time: 52.738s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   6, Time: 53.272s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   7, Time: 50.640s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   8, Time: 52.907s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch   9, Time: 53.244s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  10, Time: 53.025s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  11, Time: 53.415s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  12, Time: 52.527s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  13, Time: 52.314s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  14, Time: 53.362s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  15, Time: 53.363s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  16, Time: 47.184s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  17, Time: 44.776s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  18, Time: 46.561s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  19, Time: 44.176s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  20, Time: 46.930s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+weibo: Fine-tuning Epoch  21, Time: 44.848s, Train Loss: nan, Val Loss: nan, Test Loss: nan, LOG2 MSLE: 29.002
+Traceback (most recent call last):
+  File "/home/jpf/swj/ccgl_pytorch/src/fine_tuning.py", line 275, in <module>
+    app.run(main)
+  File "/home/jpf/miniconda3/envs/ccgl/lib/python3.9/site-packages/absl/app.py", line 312, in run
+    _run_main(main, args)
+  File "/home/jpf/miniconda3/envs/ccgl/lib/python3.9/site-packages/absl/app.py", line 258, in _run_main
+    sys.exit(main(argv))
+  File "/home/jpf/swj/ccgl_pytorch/src/fine_tuning.py", line 263, in main
+    report_loss = np.mean(np.square(np.log2(np.array([pre if pre >= 1 else 1 for pre in save_predictions])) -
+ValueError: operands could not be broadcast together with shapes (0,) (15603,) 

@@ -1,0 +1,39 @@
+nohup: 忽略输入
+cuda:3
+# pre-training samples 5866
+weibo_16x_20: Pre-training Epoch   1, Time: 43.132s, 2022-07-17, 17:14, Train Loss: 3.7838
+Model saved!
+weibo_16x_20: Pre-training Epoch   2, Time: 44.139s, 2022-07-17, 17:15, Train Loss: 3.0608
+Model saved!
+weibo_16x_20: Pre-training Epoch   3, Time: 44.676s, 2022-07-17, 17:16, Train Loss: 2.7596
+Model saved!
+weibo_16x_20: Pre-training Epoch   4, Time: 44.046s, 2022-07-17, 17:17, Train Loss: 2.6739
+Model saved!
+weibo_16x_20: Pre-training Epoch   5, Time: 45.198s, 2022-07-17, 17:17, Train Loss: 2.4025
+Model saved!
+weibo_16x_20: Pre-training Epoch   6, Time: 45.337s, 2022-07-17, 17:18, Train Loss: 2.3624
+Model saved!
+weibo_16x_20: Pre-training Epoch   7, Time: 43.244s, 2022-07-17, 17:19, Train Loss: 2.2305
+Model saved!
+weibo_16x_20: Pre-training Epoch   8, Time: 45.618s, 2022-07-17, 17:20, Train Loss: 2.0627
+Model saved!
+weibo_16x_20: Pre-training Epoch   9, Time: 45.065s, 2022-07-17, 17:20, Train Loss: 2.0268
+Model saved!
+weibo_16x_20: Pre-training Epoch  10, Time: 44.112s, 2022-07-17, 17:21, Train Loss: 1.9551
+Model saved!
+weibo_16x_20: Pre-training Epoch  11, Time: 44.193s, 2022-07-17, 17:22, Train Loss: 1.9180
+Model saved!
+weibo_16x_20: Pre-training Epoch  12, Time: 44.863s, 2022-07-17, 17:23, Train Loss: 1.9199
+weibo_16x_20: Pre-training Epoch  13, Time: 45.226s, 2022-07-17, 17:23, Train Loss: 1.8913
+Model saved!
+weibo_16x_20: Pre-training Epoch  14, Time: 45.347s, 2022-07-17, 17:24, Train Loss: 1.8402
+Model saved!
+weibo_16x_20: Pre-training Epoch  15, Time: 45.204s, 2022-07-17, 17:25, Train Loss: 1.8112
+Model saved!
+weibo_16x_20: Pre-training Epoch  16, Time: 45.269s, 2022-07-17, 17:26, Train Loss: 1.7598
+Model saved!
+weibo_16x_20: Pre-training Epoch  17, Time: 44.702s, 2022-07-17, 17:26, Train Loss: 1.7724
+weibo_16x_20: Pre-training Epoch  18, Time: 44.788s, 2022-07-17, 17:27, Train Loss: 2.4575
+weibo_16x_20: Pre-training Epoch  19, Time: 40.439s, 2022-07-17, 17:28, Train Loss: 2.0042
+weibo_16x_20: Pre-training Epoch  20, Time: 31.874s, 2022-07-17, 17:28, Train Loss: 1.8136
+Finished! Time used: 14.859min

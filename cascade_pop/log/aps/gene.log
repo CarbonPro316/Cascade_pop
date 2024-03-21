@@ -1,0 +1,545 @@
+nohup: 忽略输入
+Start writing train set into file.
+(1/7) Write train set, 100/31069, eta: 22.21 minutes
+(1/7) Write train set, 200/31069, eta: 21.76 minutes
+(1/7) Write train set, 300/31069, eta: 21.48 minutes
+(1/7) Write train set, 400/31069, eta: 21.27 minutes
+(1/7) Write train set, 500/31069, eta: 21.29 minutes
+(1/7) Write train set, 600/31069, eta: 20.99 minutes
+(1/7) Write train set, 700/31069, eta: 20.80 minutes
+(1/7) Write train set, 800/31069, eta: 20.64 minutes
+(1/7) Write train set, 900/31069, eta: 20.50 minutes
+(1/7) Write train set, 1000/31069, eta: 20.40 minutes
+(1/7) Write train set, 1100/31069, eta: 20.29 minutes
+(1/7) Write train set, 1200/31069, eta: 20.21 minutes
+(1/7) Write train set, 1300/31069, eta: 20.09 minutes
+(1/7) Write train set, 1400/31069, eta: 19.99 minutes
+(1/7) Write train set, 1500/31069, eta: 19.95 minutes
+(1/7) Write train set, 1600/31069, eta: 19.85 minutes
+(1/7) Write train set, 1700/31069, eta: 19.75 minutes
+(1/7) Write train set, 1800/31069, eta: 19.65 minutes
+(1/7) Write train set, 1900/31069, eta: 19.56 minutes
+(1/7) Write train set, 2000/31069, eta: 19.47 minutes
+(1/7) Write train set, 2100/31069, eta: 19.40 minutes
+(1/7) Write train set, 2200/31069, eta: 19.33 minutes
+(1/7) Write train set, 2300/31069, eta: 19.27 minutes
+(1/7) Write train set, 2400/31069, eta: 19.20 minutes
+(1/7) Write train set, 2500/31069, eta: 19.13 minutes
+(1/7) Write train set, 2600/31069, eta: 19.12 minutes
+(1/7) Write train set, 2700/31069, eta: 19.13 minutes
+(1/7) Write train set, 2800/31069, eta: 19.08 minutes
+(1/7) Write train set, 2900/31069, eta: 18.99 minutes
+(1/7) Write train set, 3000/31069, eta: 18.92 minutes
+(1/7) Write train set, 3100/31069, eta: 18.85 minutes
+(1/7) Write train set, 3200/31069, eta: 18.78 minutes
+(1/7) Write train set, 3300/31069, eta: 18.70 minutes
+(1/7) Write train set, 3400/31069, eta: 18.64 minutes
+(1/7) Write train set, 3500/31069, eta: 18.56 minutes
+(1/7) Write train set, 3600/31069, eta: 18.48 minutes
+(1/7) Write train set, 3700/31069, eta: 18.39 minutes
+(1/7) Write train set, 3800/31069, eta: 18.32 minutes
+(1/7) Write train set, 3900/31069, eta: 18.24 minutes
+(1/7) Write train set, 4000/31069, eta: 18.16 minutes
+(1/7) Write train set, 4100/31069, eta: 18.09 minutes
+(1/7) Write train set, 4200/31069, eta: 18.02 minutes
+(1/7) Write train set, 4300/31069, eta: 17.94 minutes
+(1/7) Write train set, 4400/31069, eta: 17.86 minutes
+(1/7) Write train set, 4500/31069, eta: 17.78 minutes
+(1/7) Write train set, 4600/31069, eta: 17.70 minutes
+(1/7) Write train set, 4700/31069, eta: 17.62 minutes
+(1/7) Write train set, 4800/31069, eta: 17.55 minutes
+(1/7) Write train set, 4900/31069, eta: 17.47 minutes
+(1/7) Write train set, 5000/31069, eta: 17.39 minutes
+(1/7) Write train set, 5100/31069, eta: 17.32 minutes
+(1/7) Write train set, 5200/31069, eta: 17.24 minutes
+(1/7) Write train set, 5300/31069, eta: 17.16 minutes
+(1/7) Write train set, 5400/31069, eta: 17.09 minutes
+(1/7) Write train set, 5500/31069, eta: 17.02 minutes
+(1/7) Write train set, 5600/31069, eta: 16.94 minutes
+(1/7) Write train set, 5700/31069, eta: 16.86 minutes
+(1/7) Write train set, 5800/31069, eta: 16.79 minutes
+(1/7) Write train set, 5900/31069, eta: 16.71 minutes
+(1/7) Write train set, 6000/31069, eta: 16.64 minutes
+(1/7) Write train set, 6100/31069, eta: 16.58 minutes
+(1/7) Write train set, 6200/31069, eta: 16.51 minutes
+(1/7) Write train set, 6300/31069, eta: 16.44 minutes
+(1/7) Write train set, 6400/31069, eta: 16.37 minutes
+(1/7) Write train set, 6500/31069, eta: 16.30 minutes
+(1/7) Write train set, 6600/31069, eta: 16.22 minutes
+(1/7) Write train set, 6700/31069, eta: 16.15 minutes
+(1/7) Write train set, 6800/31069, eta: 16.08 minutes
+(1/7) Write train set, 6900/31069, eta: 16.01 minutes
+(1/7) Write train set, 7000/31069, eta: 15.94 minutes
+(1/7) Write train set, 7100/31069, eta: 15.87 minutes
+(1/7) Write train set, 7200/31069, eta: 15.80 minutes
+(1/7) Write train set, 7300/31069, eta: 15.73 minutes
+(1/7) Write train set, 7400/31069, eta: 15.66 minutes
+(1/7) Write train set, 7500/31069, eta: 15.59 minutes
+(1/7) Write train set, 7600/31069, eta: 15.52 minutes
+(1/7) Write train set, 7700/31069, eta: 15.44 minutes
+(1/7) Write train set, 7800/31069, eta: 15.37 minutes
+(1/7) Write train set, 7900/31069, eta: 15.31 minutes
+(1/7) Write train set, 8000/31069, eta: 15.24 minutes
+(1/7) Write train set, 8100/31069, eta: 15.17 minutes
+(1/7) Write train set, 8200/31069, eta: 15.10 minutes
+(1/7) Write train set, 8300/31069, eta: 15.03 minutes
+(1/7) Write train set, 8400/31069, eta: 14.97 minutes
+(1/7) Write train set, 8500/31069, eta: 14.90 minutes
+(1/7) Write train set, 8600/31069, eta: 14.83 minutes
+(1/7) Write train set, 8700/31069, eta: 14.76 minutes
+(1/7) Write train set, 8800/31069, eta: 14.69 minutes
+(1/7) Write train set, 8900/31069, eta: 14.62 minutes
+(1/7) Write train set, 9000/31069, eta: 14.56 minutes
+(1/7) Write train set, 9100/31069, eta: 14.49 minutes
+(1/7) Write train set, 9200/31069, eta: 14.42 minutes
+(1/7) Write train set, 9300/31069, eta: 14.35 minutes
+(1/7) Write train set, 9400/31069, eta: 14.28 minutes
+(1/7) Write train set, 9500/31069, eta: 14.21 minutes
+(1/7) Write train set, 9600/31069, eta: 14.14 minutes
+(1/7) Write train set, 9700/31069, eta: 14.08 minutes
+(1/7) Write train set, 9800/31069, eta: 14.01 minutes
+(1/7) Write train set, 9900/31069, eta: 13.97 minutes
+(1/7) Write train set, 10000/31069, eta: 13.91 minutes
+(1/7) Write train set, 10100/31069, eta: 13.85 minutes
+(1/7) Write train set, 10200/31069, eta: 13.83 minutes
+(1/7) Write train set, 10300/31069, eta: 13.80 minutes
+(1/7) Write train set, 10400/31069, eta: 13.73 minutes
+(1/7) Write train set, 10500/31069, eta: 13.69 minutes
+(1/7) Write train set, 10600/31069, eta: 13.63 minutes
+(1/7) Write train set, 10700/31069, eta: 13.56 minutes
+(1/7) Write train set, 10800/31069, eta: 13.50 minutes
+(1/7) Write train set, 10900/31069, eta: 13.48 minutes
+(1/7) Write train set, 11000/31069, eta: 13.41 minutes
+(1/7) Write train set, 11100/31069, eta: 13.35 minutes
+(1/7) Write train set, 11200/31069, eta: 13.28 minutes
+(1/7) Write train set, 11300/31069, eta: 13.21 minutes
+(1/7) Write train set, 11400/31069, eta: 13.14 minutes
+(1/7) Write train set, 11500/31069, eta: 13.07 minutes
+(1/7) Write train set, 11600/31069, eta: 13.01 minutes
+(1/7) Write train set, 11700/31069, eta: 12.93 minutes
+(1/7) Write train set, 11800/31069, eta: 12.86 minutes
+(1/7) Write train set, 11900/31069, eta: 12.80 minutes
+(1/7) Write train set, 12000/31069, eta: 12.73 minutes
+(1/7) Write train set, 12100/31069, eta: 12.66 minutes
+(1/7) Write train set, 12200/31069, eta: 12.60 minutes
+(1/7) Write train set, 12300/31069, eta: 12.53 minutes
+(1/7) Write train set, 12400/31069, eta: 12.47 minutes
+(1/7) Write train set, 12500/31069, eta: 12.40 minutes
+(1/7) Write train set, 12600/31069, eta: 12.33 minutes
+(1/7) Write train set, 12700/31069, eta: 12.27 minutes
+(1/7) Write train set, 12800/31069, eta: 12.20 minutes
+(1/7) Write train set, 12900/31069, eta: 12.14 minutes
+(1/7) Write train set, 13000/31069, eta: 12.07 minutes
+(1/7) Write train set, 13100/31069, eta: 12.01 minutes
+(1/7) Write train set, 13200/31069, eta: 11.94 minutes
+(1/7) Write train set, 13300/31069, eta: 11.88 minutes
+(1/7) Write train set, 13400/31069, eta: 11.81 minutes
+(1/7) Write train set, 13500/31069, eta: 11.74 minutes
+(1/7) Write train set, 13600/31069, eta: 11.68 minutes
+(1/7) Write train set, 13700/31069, eta: 11.61 minutes
+(1/7) Write train set, 13800/31069, eta: 11.55 minutes
+(1/7) Write train set, 13900/31069, eta: 11.55 minutes
+(1/7) Write train set, 14000/31069, eta: 11.50 minutes
+(1/7) Write train set, 14100/31069, eta: 11.44 minutes
+(1/7) Write train set, 14200/31069, eta: 11.37 minutes
+(1/7) Write train set, 14300/31069, eta: 11.30 minutes
+(1/7) Write train set, 14400/31069, eta: 11.23 minutes
+(1/7) Write train set, 14500/31069, eta: 11.17 minutes
+(1/7) Write train set, 14600/31069, eta: 11.10 minutes
+(1/7) Write train set, 14700/31069, eta: 11.03 minutes
+(1/7) Write train set, 14800/31069, eta: 10.97 minutes
+(1/7) Write train set, 14900/31069, eta: 10.90 minutes
+(1/7) Write train set, 15000/31069, eta: 10.83 minutes
+(1/7) Write train set, 15100/31069, eta: 10.76 minutes
+(1/7) Write train set, 15200/31069, eta: 10.70 minutes
+(1/7) Write train set, 15300/31069, eta: 10.63 minutes
+(1/7) Write train set, 15400/31069, eta: 10.57 minutes
+(1/7) Write train set, 15500/31069, eta: 10.51 minutes
+(1/7) Write train set, 15600/31069, eta: 10.44 minutes
+(1/7) Write train set, 15700/31069, eta: 10.38 minutes
+(1/7) Write train set, 15800/31069, eta: 10.31 minutes
+(1/7) Write train set, 15900/31069, eta: 10.24 minutes
+(1/7) Write train set, 16000/31069, eta: 10.17 minutes
+(1/7) Write train set, 16100/31069, eta: 10.11 minutes
+(1/7) Write train set, 16200/31069, eta: 10.04 minutes
+(1/7) Write train set, 16300/31069, eta: 9.97 minutes
+(1/7) Write train set, 16400/31069, eta: 9.91 minutes
+(1/7) Write train set, 16500/31069, eta: 9.85 minutes
+(1/7) Write train set, 16600/31069, eta: 9.78 minutes
+(1/7) Write train set, 16700/31069, eta: 9.71 minutes
+(1/7) Write train set, 16800/31069, eta: 9.67 minutes
+(1/7) Write train set, 16900/31069, eta: 9.61 minutes
+(1/7) Write train set, 17000/31069, eta: 9.55 minutes
+(1/7) Write train set, 17100/31069, eta: 9.48 minutes
+(1/7) Write train set, 17200/31069, eta: 9.42 minutes
+(1/7) Write train set, 17300/31069, eta: 9.36 minutes
+(1/7) Write train set, 17400/31069, eta: 9.29 minutes
+(1/7) Write train set, 17500/31069, eta: 9.22 minutes
+(1/7) Write train set, 17600/31069, eta: 9.15 minutes
+(1/7) Write train set, 17700/31069, eta: 9.08 minutes
+(1/7) Write train set, 17800/31069, eta: 9.02 minutes
+(1/7) Write train set, 17900/31069, eta: 8.95 minutes
+(1/7) Write train set, 18000/31069, eta: 8.88 minutes
+(1/7) Write train set, 18100/31069, eta: 8.81 minutes
+(1/7) Write train set, 18200/31069, eta: 8.74 minutes
+(1/7) Write train set, 18300/31069, eta: 8.67 minutes
+(1/7) Write train set, 18400/31069, eta: 8.62 minutes
+(1/7) Write train set, 18500/31069, eta: 8.55 minutes
+(1/7) Write train set, 18600/31069, eta: 8.48 minutes
+(1/7) Write train set, 18700/31069, eta: 8.41 minutes
+(1/7) Write train set, 18800/31069, eta: 8.35 minutes
+(1/7) Write train set, 18900/31069, eta: 8.28 minutes
+(1/7) Write train set, 19000/31069, eta: 8.21 minutes
+(1/7) Write train set, 19100/31069, eta: 8.15 minutes
+(1/7) Write train set, 19200/31069, eta: 8.08 minutes
+(1/7) Write train set, 19300/31069, eta: 8.02 minutes
+(1/7) Write train set, 19400/31069, eta: 7.95 minutes
+(1/7) Write train set, 19500/31069, eta: 7.88 minutes
+(1/7) Write train set, 19600/31069, eta: 7.81 minutes
+(1/7) Write train set, 19700/31069, eta: 7.75 minutes
+(1/7) Write train set, 19800/31069, eta: 7.68 minutes
+(1/7) Write train set, 19900/31069, eta: 7.61 minutes
+(1/7) Write train set, 20000/31069, eta: 7.54 minutes
+(1/7) Write train set, 20100/31069, eta: 7.48 minutes
+(1/7) Write train set, 20200/31069, eta: 7.41 minutes
+(1/7) Write train set, 20300/31069, eta: 7.34 minutes
+(1/7) Write train set, 20400/31069, eta: 7.27 minutes
+(1/7) Write train set, 20500/31069, eta: 7.20 minutes
+(1/7) Write train set, 20600/31069, eta: 7.13 minutes
+(1/7) Write train set, 20700/31069, eta: 7.06 minutes
+(1/7) Write train set, 20800/31069, eta: 7.00 minutes
+(1/7) Write train set, 20900/31069, eta: 6.93 minutes
+(1/7) Write train set, 21000/31069, eta: 6.86 minutes
+(1/7) Write train set, 21100/31069, eta: 6.79 minutes
+(1/7) Write train set, 21200/31069, eta: 6.72 minutes
+(1/7) Write train set, 21300/31069, eta: 6.66 minutes
+(1/7) Write train set, 21400/31069, eta: 6.59 minutes
+(1/7) Write train set, 21500/31069, eta: 6.52 minutes
+(1/7) Write train set, 21600/31069, eta: 6.46 minutes
+(1/7) Write train set, 21700/31069, eta: 6.39 minutes
+(1/7) Write train set, 21800/31069, eta: 6.33 minutes
+(1/7) Write train set, 21900/31069, eta: 6.26 minutes
+(1/7) Write train set, 22000/31069, eta: 6.19 minutes
+(1/7) Write train set, 22100/31069, eta: 6.12 minutes
+(1/7) Write train set, 22200/31069, eta: 6.06 minutes
+(1/7) Write train set, 22300/31069, eta: 5.99 minutes
+(1/7) Write train set, 22400/31069, eta: 5.92 minutes
+(1/7) Write train set, 22500/31069, eta: 5.86 minutes
+(1/7) Write train set, 22600/31069, eta: 5.80 minutes
+(1/7) Write train set, 22700/31069, eta: 5.73 minutes
+(1/7) Write train set, 22800/31069, eta: 5.66 minutes
+(1/7) Write train set, 22900/31069, eta: 5.60 minutes
+(1/7) Write train set, 23000/31069, eta: 5.53 minutes
+(1/7) Write train set, 23100/31069, eta: 5.47 minutes
+(1/7) Write train set, 23200/31069, eta: 5.40 minutes
+(1/7) Write train set, 23300/31069, eta: 5.33 minutes
+(1/7) Write train set, 23400/31069, eta: 5.26 minutes
+(1/7) Write train set, 23500/31069, eta: 5.19 minutes
+(1/7) Write train set, 23600/31069, eta: 5.12 minutes
+(1/7) Write train set, 23700/31069, eta: 5.05 minutes
+(1/7) Write train set, 23800/31069, eta: 4.99 minutes
+(1/7) Write train set, 23900/31069, eta: 4.92 minutes
+(1/7) Write train set, 24000/31069, eta: 4.85 minutes
+(1/7) Write train set, 24100/31069, eta: 4.78 minutes
+(1/7) Write train set, 24200/31069, eta: 4.71 minutes
+(1/7) Write train set, 24300/31069, eta: 4.64 minutes
+(1/7) Write train set, 24400/31069, eta: 4.58 minutes
+(1/7) Write train set, 24500/31069, eta: 4.51 minutes
+(1/7) Write train set, 24600/31069, eta: 4.44 minutes
+(1/7) Write train set, 24700/31069, eta: 4.37 minutes
+(1/7) Write train set, 24800/31069, eta: 4.30 minutes
+(1/7) Write train set, 24900/31069, eta: 4.23 minutes
+(1/7) Write train set, 25000/31069, eta: 4.16 minutes
+(1/7) Write train set, 25100/31069, eta: 4.10 minutes
+(1/7) Write train set, 25200/31069, eta: 4.03 minutes
+(1/7) Write train set, 25300/31069, eta: 3.96 minutes
+(1/7) Write train set, 25400/31069, eta: 3.89 minutes
+(1/7) Write train set, 25500/31069, eta: 3.82 minutes
+(1/7) Write train set, 25600/31069, eta: 3.75 minutes
+(1/7) Write train set, 25700/31069, eta: 3.68 minutes
+(1/7) Write train set, 25800/31069, eta: 3.61 minutes
+(1/7) Write train set, 25900/31069, eta: 3.55 minutes
+(1/7) Write train set, 26000/31069, eta: 3.48 minutes
+(1/7) Write train set, 26100/31069, eta: 3.41 minutes
+(1/7) Write train set, 26200/31069, eta: 3.34 minutes
+(1/7) Write train set, 26300/31069, eta: 3.27 minutes
+(1/7) Write train set, 26400/31069, eta: 3.20 minutes
+(1/7) Write train set, 26500/31069, eta: 3.13 minutes
+(1/7) Write train set, 26600/31069, eta: 3.07 minutes
+(1/7) Write train set, 26700/31069, eta: 3.00 minutes
+(1/7) Write train set, 26800/31069, eta: 2.93 minutes
+(1/7) Write train set, 26900/31069, eta: 2.86 minutes
+(1/7) Write train set, 27000/31069, eta: 2.79 minutes
+(1/7) Write train set, 27100/31069, eta: 2.73 minutes
+(1/7) Write train set, 27200/31069, eta: 2.66 minutes
+(1/7) Write train set, 27300/31069, eta: 2.59 minutes
+(1/7) Write train set, 27400/31069, eta: 2.52 minutes
+(1/7) Write train set, 27500/31069, eta: 2.45 minutes
+(1/7) Write train set, 27600/31069, eta: 2.38 minutes
+(1/7) Write train set, 27700/31069, eta: 2.32 minutes
+(1/7) Write train set, 27800/31069, eta: 2.25 minutes
+(1/7) Write train set, 27900/31069, eta: 2.18 minutes
+(1/7) Write train set, 28000/31069, eta: 2.11 minutes
+(1/7) Write train set, 28100/31069, eta: 2.05 minutes
+(1/7) Write train set, 28200/31069, eta: 1.98 minutes
+(1/7) Write train set, 28300/31069, eta: 1.91 minutes
+(1/7) Write train set, 28400/31069, eta: 1.84 minutes
+(1/7) Write train set, 28500/31069, eta: 1.77 minutes
+(1/7) Write train set, 28600/31069, eta: 1.71 minutes
+(1/7) Write train set, 28700/31069, eta: 1.64 minutes
+(1/7) Write train set, 28800/31069, eta: 1.57 minutes
+(1/7) Write train set, 28900/31069, eta: 1.50 minutes
+(1/7) Write train set, 29000/31069, eta: 1.43 minutes
+(1/7) Write train set, 29100/31069, eta: 1.36 minutes
+(1/7) Write train set, 29200/31069, eta: 1.29 minutes
+(1/7) Write train set, 29300/31069, eta: 1.22 minutes
+(1/7) Write train set, 29400/31069, eta: 1.15 minutes
+(1/7) Write train set, 29500/31069, eta: 1.08 minutes
+(1/7) Write train set, 29600/31069, eta: 1.02 minutes
+(1/7) Write train set, 29700/31069, eta: 0.95 minutes
+(1/7) Write train set, 29800/31069, eta: 0.88 minutes
+(1/7) Write train set, 29900/31069, eta: 0.81 minutes
+(1/7) Write train set, 30000/31069, eta: 0.74 minutes
+(1/7) Write train set, 30100/31069, eta: 0.67 minutes
+(1/7) Write train set, 30200/31069, eta: 0.60 minutes
+(1/7) Write train set, 30300/31069, eta: 0.53 minutes
+(1/7) Write train set, 30400/31069, eta: 0.46 minutes
+(1/7) Write train set, 30500/31069, eta: 0.39 minutes
+(1/7) Write train set, 30600/31069, eta: 0.32 minutes
+(1/7) Write train set, 30700/31069, eta: 0.25 minutes
+(1/7) Write train set, 30800/31069, eta: 0.19 minutes
+(1/7) Write train set, 30900/31069, eta: 0.12 minutes
+(1/7) Write train set, 31000/31069, eta: 0.05 minutes
+Start writing validation set into file.
+(2/7) Write val set, 100/6639, eta: 4.26 minutes
+(2/7) Write val set, 200/6639, eta: 4.25 minutes
+(2/7) Write val set, 300/6639, eta: 4.21 minutes
+(2/7) Write val set, 400/6639, eta: 4.14 minutes
+(2/7) Write val set, 500/6639, eta: 4.07 minutes
+(2/7) Write val set, 600/6639, eta: 4.01 minutes
+(2/7) Write val set, 700/6639, eta: 3.96 minutes
+(2/7) Write val set, 800/6639, eta: 3.90 minutes
+(2/7) Write val set, 900/6639, eta: 3.84 minutes
+(2/7) Write val set, 1000/6639, eta: 3.78 minutes
+(2/7) Write val set, 1100/6639, eta: 3.72 minutes
+(2/7) Write val set, 1200/6639, eta: 3.66 minutes
+(2/7) Write val set, 1300/6639, eta: 3.59 minutes
+(2/7) Write val set, 1400/6639, eta: 3.52 minutes
+(2/7) Write val set, 1500/6639, eta: 3.45 minutes
+(2/7) Write val set, 1600/6639, eta: 3.38 minutes
+(2/7) Write val set, 1700/6639, eta: 3.31 minutes
+(2/7) Write val set, 1800/6639, eta: 3.25 minutes
+(2/7) Write val set, 1900/6639, eta: 3.18 minutes
+(2/7) Write val set, 2000/6639, eta: 3.11 minutes
+(2/7) Write val set, 2100/6639, eta: 3.04 minutes
+(2/7) Write val set, 2200/6639, eta: 2.98 minutes
+(2/7) Write val set, 2300/6639, eta: 2.92 minutes
+(2/7) Write val set, 2400/6639, eta: 2.86 minutes
+(2/7) Write val set, 2500/6639, eta: 2.80 minutes
+(2/7) Write val set, 2600/6639, eta: 2.74 minutes
+(2/7) Write val set, 2700/6639, eta: 2.68 minutes
+(2/7) Write val set, 2800/6639, eta: 2.62 minutes
+(2/7) Write val set, 2900/6639, eta: 2.56 minutes
+(2/7) Write val set, 3000/6639, eta: 2.51 minutes
+(2/7) Write val set, 3100/6639, eta: 2.44 minutes
+(2/7) Write val set, 3200/6639, eta: 2.37 minutes
+(2/7) Write val set, 3300/6639, eta: 2.29 minutes
+(2/7) Write val set, 3400/6639, eta: 2.23 minutes
+(2/7) Write val set, 3500/6639, eta: 2.16 minutes
+(2/7) Write val set, 3600/6639, eta: 2.09 minutes
+(2/7) Write val set, 3700/6639, eta: 2.02 minutes
+(2/7) Write val set, 3800/6639, eta: 1.95 minutes
+(2/7) Write val set, 3900/6639, eta: 1.88 minutes
+(2/7) Write val set, 4000/6639, eta: 1.82 minutes
+(2/7) Write val set, 4100/6639, eta: 1.75 minutes
+(2/7) Write val set, 4200/6639, eta: 1.68 minutes
+(2/7) Write val set, 4300/6639, eta: 1.61 minutes
+(2/7) Write val set, 4400/6639, eta: 1.54 minutes
+(2/7) Write val set, 4500/6639, eta: 1.47 minutes
+(2/7) Write val set, 4600/6639, eta: 1.40 minutes
+(2/7) Write val set, 4700/6639, eta: 1.33 minutes
+(2/7) Write val set, 4800/6639, eta: 1.26 minutes
+(2/7) Write val set, 4900/6639, eta: 1.19 minutes
+(2/7) Write val set, 5000/6639, eta: 1.12 minutes
+(2/7) Write val set, 5100/6639, eta: 1.05 minutes
+(2/7) Write val set, 5200/6639, eta: 0.99 minutes
+(2/7) Write val set, 5300/6639, eta: 0.92 minutes
+(2/7) Write val set, 5400/6639, eta: 0.85 minutes
+(2/7) Write val set, 5500/6639, eta: 0.78 minutes
+(2/7) Write val set, 5600/6639, eta: 0.71 minutes
+(2/7) Write val set, 5700/6639, eta: 0.64 minutes
+(2/7) Write val set, 5800/6639, eta: 0.57 minutes
+(2/7) Write val set, 5900/6639, eta: 0.51 minutes
+(2/7) Write val set, 6000/6639, eta: 0.44 minutes
+(2/7) Write val set, 6100/6639, eta: 0.37 minutes
+(2/7) Write val set, 6200/6639, eta: 0.30 minutes
+(2/7) Write val set, 6300/6639, eta: 0.23 minutes
+(2/7) Write val set, 6400/6639, eta: 0.16 minutes
+(2/7) Write val set, 6500/6639, eta: 0.10 minutes
+(2/7) Write val set, 6600/6639, eta: 0.03 minutes
+Start writing test set into file.
+(3/7) Write test set, 100/6646, eta: 4.25 minutes
+(3/7) Write test set, 200/6646, eta: 4.25 minutes
+(3/7) Write test set, 300/6646, eta: 4.20 minutes
+(3/7) Write test set, 400/6646, eta: 4.12 minutes
+(3/7) Write test set, 500/6646, eta: 4.06 minutes
+(3/7) Write test set, 600/6646, eta: 3.99 minutes
+(3/7) Write test set, 700/6646, eta: 3.94 minutes
+(3/7) Write test set, 800/6646, eta: 3.87 minutes
+(3/7) Write test set, 900/6646, eta: 3.82 minutes
+(3/7) Write test set, 1000/6646, eta: 3.77 minutes
+(3/7) Write test set, 1100/6646, eta: 3.71 minutes
+(3/7) Write test set, 1200/6646, eta: 3.64 minutes
+(3/7) Write test set, 1300/6646, eta: 3.57 minutes
+(3/7) Write test set, 1400/6646, eta: 3.50 minutes
+(3/7) Write test set, 1500/6646, eta: 3.45 minutes
+(3/7) Write test set, 1600/6646, eta: 3.38 minutes
+(3/7) Write test set, 1700/6646, eta: 3.32 minutes
+(3/7) Write test set, 1800/6646, eta: 3.26 minutes
+(3/7) Write test set, 1900/6646, eta: 3.20 minutes
+(3/7) Write test set, 2000/6646, eta: 3.13 minutes
+(3/7) Write test set, 2100/6646, eta: 3.08 minutes
+(3/7) Write test set, 2200/6646, eta: 3.01 minutes
+(3/7) Write test set, 2300/6646, eta: 2.94 minutes
+(3/7) Write test set, 2400/6646, eta: 2.88 minutes
+(3/7) Write test set, 2500/6646, eta: 2.81 minutes
+(3/7) Write test set, 2600/6646, eta: 2.74 minutes
+(3/7) Write test set, 2700/6646, eta: 2.67 minutes
+(3/7) Write test set, 2800/6646, eta: 2.60 minutes
+(3/7) Write test set, 2900/6646, eta: 2.53 minutes
+(3/7) Write test set, 3000/6646, eta: 2.46 minutes
+(3/7) Write test set, 3100/6646, eta: 2.40 minutes
+(3/7) Write test set, 3200/6646, eta: 2.33 minutes
+(3/7) Write test set, 3300/6646, eta: 2.27 minutes
+(3/7) Write test set, 3400/6646, eta: 2.20 minutes
+(3/7) Write test set, 3500/6646, eta: 2.13 minutes
+(3/7) Write test set, 3600/6646, eta: 2.06 minutes
+(3/7) Write test set, 3700/6646, eta: 2.00 minutes
+(3/7) Write test set, 3800/6646, eta: 1.93 minutes
+(3/7) Write test set, 3900/6646, eta: 1.86 minutes
+(3/7) Write test set, 4000/6646, eta: 1.80 minutes
+(3/7) Write test set, 4100/6646, eta: 1.73 minutes
+(3/7) Write test set, 4200/6646, eta: 1.66 minutes
+(3/7) Write test set, 4300/6646, eta: 1.59 minutes
+(3/7) Write test set, 4400/6646, eta: 1.53 minutes
+(3/7) Write test set, 4500/6646, eta: 1.46 minutes
+(3/7) Write test set, 4600/6646, eta: 1.39 minutes
+(3/7) Write test set, 4700/6646, eta: 1.32 minutes
+(3/7) Write test set, 4800/6646, eta: 1.25 minutes
+(3/7) Write test set, 4900/6646, eta: 1.19 minutes
+(3/7) Write test set, 5000/6646, eta: 1.12 minutes
+(3/7) Write test set, 5100/6646, eta: 1.05 minutes
+(3/7) Write test set, 5200/6646, eta: 0.98 minutes
+(3/7) Write test set, 5300/6646, eta: 0.91 minutes
+(3/7) Write test set, 5400/6646, eta: 0.85 minutes
+(3/7) Write test set, 5500/6646, eta: 0.78 minutes
+(3/7) Write test set, 5600/6646, eta: 0.71 minutes
+(3/7) Write test set, 5700/6646, eta: 0.65 minutes
+(3/7) Write test set, 5800/6646, eta: 0.58 minutes
+(3/7) Write test set, 5900/6646, eta: 0.51 minutes
+(3/7) Write test set, 6000/6646, eta: 0.44 minutes
+(3/7) Write test set, 6100/6646, eta: 0.38 minutes
+(3/7) Write test set, 6200/6646, eta: 0.31 minutes
+(3/7) Write test set, 6300/6646, eta: 0.24 minutes
+(3/7) Write test set, 6400/6646, eta: 0.17 minutes
+(3/7) Write test set, 6500/6646, eta: 0.10 minutes
+(3/7) Write test set, 6600/6646, eta: 0.03 minutes
+Start writing aug set 1 into file.
+(4/7) Write augmented cascade graphs, 100/4885, eta: 2.99 minutes
+(4/7) Write augmented cascade graphs, 200/4885, eta: 2.87 minutes
+(4/7) Write augmented cascade graphs, 300/4885, eta: 2.80 minutes
+(4/7) Write augmented cascade graphs, 400/4885, eta: 2.73 minutes
+(4/7) Write augmented cascade graphs, 500/4885, eta: 2.66 minutes
+(4/7) Write augmented cascade graphs, 600/4885, eta: 2.60 minutes
+(4/7) Write augmented cascade graphs, 700/4885, eta: 2.54 minutes
+(4/7) Write augmented cascade graphs, 800/4885, eta: 2.48 minutes
+(4/7) Write augmented cascade graphs, 900/4885, eta: 2.42 minutes
+(4/7) Write augmented cascade graphs, 1000/4885, eta: 2.36 minutes
+(4/7) Write augmented cascade graphs, 1100/4885, eta: 2.30 minutes
+(4/7) Write augmented cascade graphs, 1200/4885, eta: 2.24 minutes
+(4/7) Write augmented cascade graphs, 1300/4885, eta: 2.18 minutes
+(4/7) Write augmented cascade graphs, 1400/4885, eta: 2.12 minutes
+(4/7) Write augmented cascade graphs, 1500/4885, eta: 2.06 minutes
+(4/7) Write augmented cascade graphs, 1600/4885, eta: 2.00 minutes
+(4/7) Write augmented cascade graphs, 1700/4885, eta: 1.94 minutes
+(4/7) Write augmented cascade graphs, 1800/4885, eta: 1.88 minutes
+(4/7) Write augmented cascade graphs, 1900/4885, eta: 1.82 minutes
+(4/7) Write augmented cascade graphs, 2000/4885, eta: 1.76 minutes
+(4/7) Write augmented cascade graphs, 2100/4885, eta: 1.69 minutes
+(4/7) Write augmented cascade graphs, 2200/4885, eta: 1.64 minutes
+(4/7) Write augmented cascade graphs, 2300/4885, eta: 1.57 minutes
+(4/7) Write augmented cascade graphs, 2400/4885, eta: 1.51 minutes
+(4/7) Write augmented cascade graphs, 2500/4885, eta: 1.45 minutes
+(4/7) Write augmented cascade graphs, 2600/4885, eta: 1.39 minutes
+(4/7) Write augmented cascade graphs, 2700/4885, eta: 1.33 minutes
+(4/7) Write augmented cascade graphs, 2800/4885, eta: 1.27 minutes
+(4/7) Write augmented cascade graphs, 2900/4885, eta: 1.21 minutes
+(4/7) Write augmented cascade graphs, 3000/4885, eta: 1.15 minutes
+(4/7) Write augmented cascade graphs, 3100/4885, eta: 1.09 minutes
+(4/7) Write augmented cascade graphs, 3200/4885, eta: 1.03 minutes
+(4/7) Write augmented cascade graphs, 3300/4885, eta: 0.97 minutes
+(4/7) Write augmented cascade graphs, 3400/4885, eta: 0.91 minutes
+(4/7) Write augmented cascade graphs, 3500/4885, eta: 0.85 minutes
+(4/7) Write augmented cascade graphs, 3600/4885, eta: 0.79 minutes
+(4/7) Write augmented cascade graphs, 3700/4885, eta: 0.72 minutes
+(4/7) Write augmented cascade graphs, 3800/4885, eta: 0.66 minutes
+(4/7) Write augmented cascade graphs, 3900/4885, eta: 0.60 minutes
+(4/7) Write augmented cascade graphs, 4000/4885, eta: 0.54 minutes
+(4/7) Write augmented cascade graphs, 4100/4885, eta: 0.48 minutes
+(4/7) Write augmented cascade graphs, 4200/4885, eta: 0.42 minutes
+(4/7) Write augmented cascade graphs, 4300/4885, eta: 0.36 minutes
+(4/7) Write augmented cascade graphs, 4400/4885, eta: 0.30 minutes
+(4/7) Write augmented cascade graphs, 4500/4885, eta: 0.24 minutes
+(4/7) Write augmented cascade graphs, 4600/4885, eta: 0.18 minutes
+(4/7) Write augmented cascade graphs, 4700/4885, eta: 0.11 minutes
+(4/7) Write augmented cascade graphs, 4800/4885, eta: 0.05 minutes
+Start writing aug set 2 into file.
+(5/7) Write augmented cascade graphs, 100/4885, eta: 3.24 minutes
+(5/7) Write augmented cascade graphs, 200/4885, eta: 3.12 minutes
+(5/7) Write augmented cascade graphs, 300/4885, eta: 3.05 minutes
+(5/7) Write augmented cascade graphs, 400/4885, eta: 3.05 minutes
+(5/7) Write augmented cascade graphs, 500/4885, eta: 3.01 minutes
+(5/7) Write augmented cascade graphs, 600/4885, eta: 2.93 minutes
+(5/7) Write augmented cascade graphs, 700/4885, eta: 2.85 minutes
+(5/7) Write augmented cascade graphs, 800/4885, eta: 2.77 minutes
+(5/7) Write augmented cascade graphs, 900/4885, eta: 2.69 minutes
+(5/7) Write augmented cascade graphs, 1000/4885, eta: 2.63 minutes
+(5/7) Write augmented cascade graphs, 1100/4885, eta: 2.56 minutes
+(5/7) Write augmented cascade graphs, 1200/4885, eta: 2.49 minutes
+(5/7) Write augmented cascade graphs, 1300/4885, eta: 2.42 minutes
+(5/7) Write augmented cascade graphs, 1400/4885, eta: 2.35 minutes
+(5/7) Write augmented cascade graphs, 1500/4885, eta: 2.28 minutes
+(5/7) Write augmented cascade graphs, 1600/4885, eta: 2.21 minutes
+(5/7) Write augmented cascade graphs, 1700/4885, eta: 2.15 minutes
+(5/7) Write augmented cascade graphs, 1800/4885, eta: 2.08 minutes
+(5/7) Write augmented cascade graphs, 1900/4885, eta: 2.01 minutes
+(5/7) Write augmented cascade graphs, 2000/4885, eta: 1.94 minutes
+(5/7) Write augmented cascade graphs, 2100/4885, eta: 1.87 minutes
+(5/7) Write augmented cascade graphs, 2200/4885, eta: 1.81 minutes
+(5/7) Write augmented cascade graphs, 2300/4885, eta: 1.74 minutes
+(5/7) Write augmented cascade graphs, 2400/4885, eta: 1.67 minutes
+(5/7) Write augmented cascade graphs, 2500/4885, eta: 1.60 minutes
+(5/7) Write augmented cascade graphs, 2600/4885, eta: 1.54 minutes
+(5/7) Write augmented cascade graphs, 2700/4885, eta: 1.47 minutes
+(5/7) Write augmented cascade graphs, 2800/4885, eta: 1.40 minutes
+(5/7) Write augmented cascade graphs, 2900/4885, eta: 1.34 minutes
+(5/7) Write augmented cascade graphs, 3000/4885, eta: 1.27 minutes
+(5/7) Write augmented cascade graphs, 3100/4885, eta: 1.20 minutes
+(5/7) Write augmented cascade graphs, 3200/4885, eta: 1.13 minutes
+(5/7) Write augmented cascade graphs, 3300/4885, eta: 1.07 minutes
+(5/7) Write augmented cascade graphs, 3400/4885, eta: 1.00 minutes
+(5/7) Write augmented cascade graphs, 3500/4885, eta: 0.93 minutes
+(5/7) Write augmented cascade graphs, 3600/4885, eta: 0.87 minutes
+(5/7) Write augmented cascade graphs, 3700/4885, eta: 0.80 minutes
+(5/7) Write augmented cascade graphs, 3800/4885, eta: 0.73 minutes
+(5/7) Write augmented cascade graphs, 3900/4885, eta: 0.66 minutes
+(5/7) Write augmented cascade graphs, 4000/4885, eta: 0.60 minutes
+(5/7) Write augmented cascade graphs, 4100/4885, eta: 0.53 minutes
+(5/7) Write augmented cascade graphs, 4200/4885, eta: 0.46 minutes
+(5/7) Write augmented cascade graphs, 4300/4885, eta: 0.39 minutes
+(5/7) Write augmented cascade graphs, 4400/4885, eta: 0.33 minutes
+(5/7) Write augmented cascade graphs, 4500/4885, eta: 0.26 minutes
+(5/7) Write augmented cascade graphs, 4600/4885, eta: 0.19 minutes
+(5/7) Write augmented cascade graphs, 4700/4885, eta: 0.12 minutes
+(5/7) Write augmented cascade graphs, 4800/4885, eta: 0.06 minutes
+Processing time: 2227.56s
